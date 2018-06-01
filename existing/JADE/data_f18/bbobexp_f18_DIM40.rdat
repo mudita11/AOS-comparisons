@@ -1,0 +1,132 @@
+% function evaluation | noise-free fitness - Fopt (-1.694000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: low variance
+304200 +2.926061807e-01 +2.926061706e-01 -1.664739382e+01 -1.664739383e+01
+ % restart: low variance
+524000 +3.427174912e-01 +2.926061706e-01 -1.659728251e+01 -1.664739383e+01
+ % restart: low variance
+756200 +2.231085924e-01 +2.231085783e-01 -1.671689141e+01 -1.671689142e+01
+ % restart: low variance
+1135200 +2.830343462e-01 +2.231085783e-01 -1.665696565e+01 -1.671689142e+01
+ % restart: low variance
+1346000 +2.416728745e-01 +2.231085783e-01 -1.669832713e+01 -1.671689142e+01
+ % restart: low variance
+1572200 +2.594179727e-01 +2.231085783e-01 -1.668058203e+01 -1.671689142e+01
+ % restart: low variance
+1856400 +4.060318407e-01 +2.231085783e-01 -1.653396816e+01 -1.671689142e+01
+ % function evaluation | noise-free fitness - Fopt (1.881000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: low variance
+874800 +5.629141076e-02 +5.622946328e-02 +1.886629141e+01 +1.886622946e+01
+ % restart: low variance
+1442400 +9.962316562e-02 +5.622946328e-02 +1.890962317e+01 +1.886622946e+01
+ % restart: low variance
+1816200 +3.702036919e-02 +3.699327373e-02 +1.884702037e+01 +1.884699327e+01
+ % function evaluation | noise-free fitness - Fopt (2.731500000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: low variance
+1084400 +5.058903905e-01 +5.058903711e-01 +2.736558904e+02 +2.736558904e+02
+ % restart: low variance
+1316000 +2.322682531e-01 +2.322682387e-01 +2.733822683e+02 +2.733822682e+02
+ % restart: low variance
+1431600 +1.906028270e-01 +1.866270595e-01 +2.733406028e+02 +2.733366271e+02
+ % function evaluation | noise-free fitness - Fopt (3.718000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: low variance
+935000 +7.397165833e-02 +7.388266879e-02 +3.725397166e+01 +3.725388267e+01
+ % restart: low variance
+1152600 +1.394594822e-01 +7.388266879e-02 +3.731945948e+01 +3.725388267e+01
+ % restart: low variance
+1372400 +9.208047950e-02 +7.388266879e-02 +3.727208048e+01 +3.725388267e+01
+ % restart: low variance
+1769200 +8.761685633e-02 +7.388266879e-02 +3.726761686e+01 +3.725388267e+01
+ % function evaluation | noise-free fitness - Fopt (-1.479000000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: low variance
+701800 +4.543150681e-02 +4.543150268e-02 -1.478545685e+02 -1.478545685e+02
+ % function evaluation | noise-free fitness - Fopt (4.060000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: low variance
+371200 +2.160715602e-01 +2.160715492e-01 +4.081607156e+01 +4.081607155e+01
+ % restart: low variance
+604000 +8.058640889e-02 +8.058640316e-02 +4.068058641e+01 +4.068058640e+01
+ % restart: low variance
+1078400 +1.850067087e-01 +8.058640316e-02 +4.078500671e+01 +4.068058640e+01
+ % restart: low variance
+1306600 +1.462503491e-01 +8.058640316e-02 +4.074625035e+01 +4.068058640e+01
+ % restart: low variance
+1550000 +1.938979402e-01 +8.058640316e-02 +4.079389794e+01 +4.068058640e+01
+ % restart: low variance
+1781200 +2.293311810e-01 +8.058640316e-02 +4.082933118e+01 +4.068058640e+01
+ % function evaluation | noise-free fitness - Fopt (4.634000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: low variance
+297400 +7.757210906e-02 +7.757210603e-02 +4.641757211e+01 +4.641757211e+01
+ % restart: low variance
+766400 +5.851709899e-02 +5.849663612e-02 +4.639851710e+01 +4.639849664e+01
+ % restart: low variance
+1082600 +5.483268421e-02 +5.483267865e-02 +4.639483268e+01 +4.639483268e+01
+ % restart: low variance
+1320200 +8.880306146e-02 +5.483267865e-02 +4.642880306e+01 +4.639483268e+01
+ % restart: low variance
+1692200 +4.092438454e-02 +4.092438067e-02 +4.638092438e+01 +4.638092438e+01
+ % restart: low variance
+1942600 +7.948275046e-02 +4.092438067e-02 +4.641948275e+01 +4.638092438e+01
+ % function evaluation | noise-free fitness - Fopt (-2.410900000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: low variance
+226200 +3.374784347e-01 +3.374784327e-01 -2.407525216e+02 -2.407525216e+02
+ % restart: low variance
+459400 +2.331117372e-01 +2.331117293e-01 -2.408568883e+02 -2.408568883e+02
+ % restart: low variance
+1213000 +9.728688453e-02 +9.721293484e-02 -2.409927131e+02 -2.409927871e+02
+ % restart: low variance
+1441000 +1.312598693e-01 +9.721293484e-02 -2.409587401e+02 -2.409927871e+02
+ % function evaluation | noise-free fitness - Fopt (-1.668800000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: low variance
+223600 +3.533860704e-02 +3.533835499e-02 -1.668446614e+02 -1.668446616e+02
+ % restart: low variance
+640800 +7.154152419e-02 +3.533835499e-02 -1.668084585e+02 -1.668446616e+02
+ % restart: low variance
+969600 +8.179351625e-02 +3.533835499e-02 -1.667982065e+02 -1.668446616e+02
+ % restart: low variance
+1308200 +1.732227716e-01 +3.533835499e-02 -1.667067772e+02 -1.668446616e+02
+ % function evaluation | noise-free fitness - Fopt (-3.464100000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: low variance
+234400 +1.276064927e-01 +1.274723423e-01 -3.462823935e+02 -3.462825277e+02
+ % restart: low variance
+805000 +6.480161174e-02 +6.472243420e-02 -3.463451984e+02 -3.463452776e+02
+ % restart: low variance
+1100000 +2.176972516e-01 +6.472243420e-02 -3.461923027e+02 -3.463452776e+02
+ % restart: low variance
+1405400 +1.192263933e-01 +6.472243420e-02 -3.462907736e+02 -3.463452776e+02
+ % restart: low variance
+1642400 +1.430861352e-01 +6.472243420e-02 -3.462669139e+02 -3.463452776e+02
+ % restart: low variance
+1877400 +8.058777958e-02 +6.472243420e-02 -3.463294122e+02 -3.463452776e+02
+ % function evaluation | noise-free fitness - Fopt (6.618000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: low variance
+349800 +2.558575676e-01 +2.557612547e-01 +6.643585757e+01 +6.643576125e+01
+ % restart: low variance
+584000 +1.624674291e-01 +1.624660901e-01 +6.634246743e+01 +6.634246609e+01
+ % restart: low variance
+803600 +1.294924952e-01 +1.294924902e-01 +6.630949250e+01 +6.630949249e+01
+ % restart: low variance
+1075000 +3.689843197e-02 +3.689842673e-02 +6.621689843e+01 +6.621689843e+01
+ % function evaluation | noise-free fitness - Fopt (-1.123000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: low variance
+821400 +3.427103229e-01 +3.426942849e-01 -1.088728968e+01 -1.088730572e+01
+ % function evaluation | noise-free fitness - Fopt (1.628000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: low variance
+410400 +5.052153579e-02 +5.052153247e-02 +1.633052154e+01 +1.633052153e+01
+ % restart: low variance
+1075400 +3.523127219e-02 +3.520245987e-02 +1.631523127e+01 +1.631520246e+01
+ % restart: low variance
+1657200 +1.393108008e-01 +3.520245987e-02 +1.641931080e+01 +1.631520246e+01
+ % function evaluation | noise-free fitness - Fopt (1.776600000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: low variance
+1700400 +6.236891608e-02 +6.236891282e-02 +1.777223689e+02 +1.777223689e+02
+ % function evaluation | noise-free fitness - Fopt (-1.000000000000e+03) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: low variance
+245400 +1.125678056e-01 +1.125663187e-01 -9.998874322e+02 -9.998874337e+02
+ % restart: low variance
+635600 +8.709020001e-02 +8.709019434e-02 -9.999129098e+02 -9.999129098e+02
+ % restart: low variance
+885800 +1.248221280e-01 +8.709019434e-02 -9.998751779e+02 -9.999129098e+02
+ % restart: low variance
+1111200 +2.297293525e-01 +8.709019434e-02 -9.997702706e+02 -9.999129098e+02
+ % restart: low variance
+1429400 +6.138489146e-02 +6.138488548e-02 -9.999386151e+02 -9.999386151e+02
+ 

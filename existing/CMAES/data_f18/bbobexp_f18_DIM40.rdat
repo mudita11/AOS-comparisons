@@ -1,0 +1,1956 @@
+% function evaluation | noise-free fitness - Fopt (-1.694000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolx.
+26447 +3.373808646e-01 +3.373808646e-01 -1.660261914e+01 -1.660261914e+01
+ % restart: Indep. restart #2, because of tolx.
+53194 +5.153387096e-01 +3.373808646e-01 -1.642466129e+01 -1.660261914e+01
+ % restart: Indep. restart #3, because of tolx.
+82521 +7.825262874e-01 +3.373808646e-01 -1.615747371e+01 -1.660261914e+01
+ % restart: Indep. restart #4, because of tolx.
+116258 +2.133550494e-01 +2.133550494e-01 -1.672664495e+01 -1.672664495e+01
+ % restart: Indep. restart #5, because of tolx.
+142630 +7.150188203e-01 +2.133550494e-01 -1.622498118e+01 -1.672664495e+01
+ % restart: Indep. restart #6, because of tolx.
+169122 +5.272106448e-01 +2.133550494e-01 -1.641278936e+01 -1.672664495e+01
+ % restart: Indep. restart #7, because of tolx.
+199349 +1.956751308e-01 +1.956751124e-01 -1.674432487e+01 -1.674432489e+01
+ % restart: Indep. restart #8, because of tolx.
+224761 +2.219351245e-01 +1.956751124e-01 -1.671806488e+01 -1.674432489e+01
+ % restart: Indep. restart #9, because of tolx.
+254628 +2.121106058e+00 +1.956751124e-01 -1.481889394e+01 -1.674432489e+01
+ % restart: Indep. restart #10, because of tolx.
+295070 +7.087030917e-01 +1.956751124e-01 -1.623129691e+01 -1.674432489e+01
+ % restart: Indep. restart #11, because of tolx.
+323677 +1.531935367e+00 +1.956751124e-01 -1.540806463e+01 -1.674432489e+01
+ % restart: Indep. restart #12, because of tolx.
+360144 +5.421851739e-01 +1.956751124e-01 -1.639781483e+01 -1.674432489e+01
+ % restart: Indep. restart #13, because of tolx.
+387941 +3.201161115e-01 +1.956751124e-01 -1.661988389e+01 -1.674432489e+01
+ % restart: Indep. restart #14, because of tolx.
+415288 +7.399430744e-01 +1.956751124e-01 -1.620005693e+01 -1.674432489e+01
+ % restart: Indep. restart #15, because of tolx.
+443970 +4.586865731e-01 +1.956751124e-01 -1.648131343e+01 -1.674432489e+01
+ % restart: Indep. restart #16, because of tolx.
+473882 +8.820937566e-01 +1.956751124e-01 -1.605790624e+01 -1.674432489e+01
+ % restart: Indep. restart #17, because of tolx.
+505189 +5.000530664e-01 +1.956751124e-01 -1.643994693e+01 -1.674432489e+01
+ % restart: Indep. restart #18, because of tolx.
+541266 +1.295718235e+00 +1.956751124e-01 -1.564428177e+01 -1.674432489e+01
+ % restart: Indep. restart #19, because of tolx.
+567083 +4.605694709e-01 +1.956751124e-01 -1.647943053e+01 -1.674432489e+01
+ % restart: Indep. restart #20, because of tolx.
+592555 +1.569164547e+00 +1.956751124e-01 -1.537083545e+01 -1.674432489e+01
+ % restart: Indep. restart #21, because of tolx.
+621867 +1.235081725e+00 +1.956751124e-01 -1.570491828e+01 -1.674432489e+01
+ % restart: Indep. restart #22, because of tolx.
+652499 +7.055928557e-01 +1.956751124e-01 -1.623440714e+01 -1.674432489e+01
+ % restart: Indep. restart #23, because of tolx.
+681901 +7.931267572e-01 +1.956751124e-01 -1.614687324e+01 -1.674432489e+01
+ % restart: Indep. restart #24, because of tolx.
+712113 +1.043684509e+00 +1.956751124e-01 -1.589631549e+01 -1.674432489e+01
+ % restart: Indep. restart #25, because of tolx.
+741755 +2.113005095e+00 +1.956751124e-01 -1.482699490e+01 -1.674432489e+01
+ % restart: Indep. restart #26, because of tolx.
+770182 +6.952189604e-01 +1.956751124e-01 -1.624478104e+01 -1.674432489e+01
+ % restart: Indep. restart #27, because of tolx.
+798669 +6.310955778e-01 +1.956751124e-01 -1.630890442e+01 -1.674432489e+01
+ % restart: Indep. restart #28, because of tolx.
+829166 +8.920678796e-01 +1.956751124e-01 -1.604793212e+01 -1.674432489e+01
+ % restart: Indep. restart #29, because of tolx.
+856798 +9.238370096e-01 +1.956751124e-01 -1.601616299e+01 -1.674432489e+01
+ % restart: Indep. restart #30, because of tolx.
+882060 +4.239419700e-01 +1.956751124e-01 -1.651605803e+01 -1.674432489e+01
+ % restart: Indep. restart #31, because of tolx.
+910802 +4.983370889e-01 +1.956751124e-01 -1.644166291e+01 -1.674432489e+01
+ % restart: Indep. restart #32, because of tolx.
+937024 +5.254941886e-01 +1.956751124e-01 -1.641450581e+01 -1.674432489e+01
+ % restart: Indep. restart #33, because of tolx.
+972471 +1.409794915e+00 +1.956751124e-01 -1.553020509e+01 -1.674432489e+01
+ % restart: Indep. restart #34, because of tolx.
+1004933 +2.591992937e+00 +1.956751124e-01 -1.434800706e+01 -1.674432489e+01
+ % restart: Indep. restart #35, because of tolx.
+1040695 +2.845873344e+00 +1.956751124e-01 -1.409412666e+01 -1.674432489e+01
+ % restart: Indep. restart #36, because of tolx.
+1070502 +3.169779281e+00 +1.956751124e-01 -1.377022072e+01 -1.674432489e+01
+ % restart: Indep. restart #37, because of tolx.
+1099874 +3.521442475e-01 +1.956751124e-01 -1.658785575e+01 -1.674432489e+01
+ % restart: Indep. restart #38, because of tolx.
+1138231 +1.760457562e+00 +1.956751124e-01 -1.517954244e+01 -1.674432489e+01
+ % restart: Indep. restart #39, because of tolx.
+1168728 +9.297812558e-01 +1.956751124e-01 -1.601021874e+01 -1.674432489e+01
+ % restart: Indep. restart #40, because of tolx.
+1194320 +2.447976663e-01 +1.956751124e-01 -1.669520233e+01 -1.674432489e+01
+ % restart: Indep. restart #41, because of tolx.
+1220152 +1.049440176e+00 +1.956751124e-01 -1.589055982e+01 -1.674432489e+01
+ % restart: Indep. restart #42, because of tolx.
+1245714 +3.145999621e-01 +1.956751124e-01 -1.662540004e+01 -1.674432489e+01
+ % restart: Indep. restart #43, because of tolx.
+1305566 +3.102580731e-01 +1.956751124e-01 -1.662974193e+01 -1.674432489e+01
+ % restart: Indep. restart #44, because of tolx.
+1334593 +4.301472566e-01 +1.956751124e-01 -1.650985274e+01 -1.674432489e+01
+ % restart: Indep. restart #45, because of tolx.
+1360590 +5.384229138e-01 +1.956751124e-01 -1.640157709e+01 -1.674432489e+01
+ % restart: Indep. restart #46, because of tolx.
+1391702 +2.918514645e-01 +1.956751124e-01 -1.664814854e+01 -1.674432489e+01
+ % restart: Indep. restart #47, because of tolx.
+1420369 +1.609132104e+00 +1.956751124e-01 -1.533086790e+01 -1.674432489e+01
+ % restart: Indep. restart #48, because of tolx.
+1456146 +2.499641152e-01 +1.956751124e-01 -1.669003588e+01 -1.674432489e+01
+ % restart: Indep. restart #49, because of tolx.
+1483763 +1.039930855e-01 +1.039930855e-01 -1.683600691e+01 -1.683600691e+01
+ % restart: Indep. restart #50, because of tolx.
+1510825 +3.530145541e-01 +1.039930855e-01 -1.658698545e+01 -1.683600691e+01
+ % restart: Indep. restart #51, because of tolx.
+1542942 +3.998110056e-01 +1.039930855e-01 -1.654018899e+01 -1.683600691e+01
+ % restart: Indep. restart #52, because of tolx.
+1570469 +1.146207977e+00 +1.039930855e-01 -1.579379202e+01 -1.683600691e+01
+ % restart: Indep. restart #53, because of tolx.
+1601176 +7.307691441e-01 +1.039930855e-01 -1.620923086e+01 -1.683600691e+01
+ % restart: Indep. restart #54, because of tolx.
+1633233 +2.405343375e-01 +1.039930855e-01 -1.669946566e+01 -1.683600691e+01
+ % restart: Indep. restart #55, because of tolx.
+1664720 +1.607115149e+00 +1.039930855e-01 -1.533288485e+01 -1.683600691e+01
+ % restart: Indep. restart #56, because of tolx.
+1695592 +3.275064513e-01 +1.039930855e-01 -1.661249355e+01 -1.683600691e+01
+ % restart: Indep. restart #57, because of tolx.
+1724934 +6.045380969e-01 +1.039930855e-01 -1.633546190e+01 -1.683600691e+01
+ % restart: Indep. restart #58, because of tolx.
+1757006 +1.233624332e+00 +1.039930855e-01 -1.570637567e+01 -1.683600691e+01
+ % restart: Indep. restart #59, because of tolx.
+1788043 +3.774255693e-01 +1.039930855e-01 -1.656257443e+01 -1.683600691e+01
+ % restart: Indep. restart #60, because of tolx.
+1818915 +1.377089258e+00 +1.039930855e-01 -1.556291074e+01 -1.683600691e+01
+ % restart: Indep. restart #61, because of tolx.
+1850957 +4.361714089e-01 +1.039930855e-01 -1.650382859e+01 -1.683600691e+01
+ % restart: Indep. restart #62, because of tolx.
+1888354 +2.978011757e+00 +1.039930855e-01 -1.396198824e+01 -1.683600691e+01
+ % restart: Indep. restart #63, because of tolx.
+1916436 +7.096932050e-01 +1.039930855e-01 -1.623030680e+01 -1.683600691e+01
+ % restart: Indep. restart #64, because of tolx.
+1942658 +6.740461392e-01 +1.039930855e-01 -1.626595386e+01 -1.683600691e+01
+ % restart: Indep. restart #65, because of tolx.
+1971085 +6.212771599e-01 +1.039930855e-01 -1.631872284e+01 -1.683600691e+01
+ % restart: Indep. restart #66, because of tolx.
+1999887 +1.232284028e+00 +1.039930855e-01 -1.570771597e+01 -1.683600691e+01
+ % function evaluation | noise-free fitness - Fopt (1.881000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolx.
+27167 +6.384530476e-01 +6.384530476e-01 +1.944845305e+01 +1.944845305e+01
+ % restart: Indep. restart #2, because of tolx.
+58264 +8.359909294e-01 +6.384530476e-01 +1.964599093e+01 +1.944845305e+01
+ % restart: Indep. restart #3, because of tolx.
+86046 +1.024258230e+00 +6.384530476e-01 +1.983425823e+01 +1.944845305e+01
+ % restart: Indep. restart #4, because of tolx.
+115613 +8.594439204e-01 +6.384530476e-01 +1.966944392e+01 +1.944845305e+01
+ % restart: Indep. restart #5, because of tolx.
+143935 +9.213807263e-01 +6.384530476e-01 +1.973138073e+01 +1.944845305e+01
+ % restart: Indep. restart #6, because of tolx.
+173367 +2.928553992e-01 +2.928553786e-01 +1.910285540e+01 +1.910285538e+01
+ % restart: Indep. restart #7, because of tolx.
+202994 +2.113824250e+00 +2.928553786e-01 +2.092382425e+01 +1.910285538e+01
+ % restart: Indep. restart #8, because of tolx.
+236971 +5.248553576e-01 +2.928553786e-01 +1.933485536e+01 +1.910285538e+01
+ % restart: Indep. restart #9, because of tolx.
+268413 +1.736941916e-01 +1.736941916e-01 +1.898369419e+01 +1.898369419e+01
+ % restart: Indep. restart #10, because of tolx.
+296375 +1.387860397e+00 +1.736941916e-01 +2.019786040e+01 +1.898369419e+01
+ % restart: Indep. restart #11, because of tolx.
+334372 +2.551467882e-01 +1.736941916e-01 +1.906514679e+01 +1.898369419e+01
+ % restart: Indep. restart #12, because of tolx.
+365244 +5.431974023e-01 +1.736941916e-01 +1.935319740e+01 +1.898369419e+01
+ % restart: Indep. restart #13, because of tolx.
+397091 +3.955185126e-01 +1.736941916e-01 +1.920551851e+01 +1.898369419e+01
+ % restart: Indep. restart #14, because of tolx.
+423988 +1.497872539e-01 +1.497871752e-01 +1.895978725e+01 +1.895978718e+01
+ % restart: Indep. restart #15, because of tolx.
+454530 +4.541246150e-01 +1.497871752e-01 +1.926412462e+01 +1.895978718e+01
+ % restart: Indep. restart #16, because of tolx.
+486767 +3.876450472e-01 +1.497871752e-01 +1.919764505e+01 +1.895978718e+01
+ % restart: Indep. restart #17, because of tolx.
+524464 +9.297994205e-01 +1.497871752e-01 +1.973979942e+01 +1.895978718e+01
+ % restart: Indep. restart #18, because of tolx.
+551436 +4.552561075e-01 +1.497871752e-01 +1.926525611e+01 +1.895978718e+01
+ % restart: Indep. restart #19, because of tolx.
+578963 +6.598410655e-01 +1.497871752e-01 +1.946984107e+01 +1.895978718e+01
+ % restart: Indep. restart #20, because of tolx.
+620365 +4.252876336e-01 +1.497871752e-01 +1.923528763e+01 +1.895978718e+01
+ % restart: Indep. restart #21, because of tolx.
+647472 +4.617876995e-01 +1.497871752e-01 +1.927178770e+01 +1.895978718e+01
+ % restart: Indep. restart #22, because of tolx.
+679079 +2.380917344e-01 +1.497871752e-01 +1.904809173e+01 +1.895978718e+01
+ % restart: Indep. restart #23, because of tolx.
+707341 +3.654017432e-01 +1.497871752e-01 +1.917540174e+01 +1.895978718e+01
+ % restart: Indep. restart #24, because of tolx.
+739278 +9.953492336e-01 +1.497871752e-01 +1.980534923e+01 +1.895978718e+01
+ % restart: Indep. restart #25, because of tolx.
+770000 +5.699920304e-01 +1.497871752e-01 +1.937999203e+01 +1.895978718e+01
+ % restart: Indep. restart #26, because of tolx.
+804637 +8.246824253e-01 +1.497871752e-01 +1.963468243e+01 +1.895978718e+01
+ % restart: Indep. restart #27, because of tolx.
+832269 +4.011489634e-01 +1.497871752e-01 +1.921114896e+01 +1.895978718e+01
+ % restart: Indep. restart #28, because of tolx.
+861506 +2.263432880e+00 +1.497871752e-01 +2.107343288e+01 +1.895978718e+01
+ % restart: Indep. restart #29, because of tolx.
+889888 +1.229457720e-01 +1.229457498e-01 +1.893294577e+01 +1.893294575e+01
+ % restart: Indep. restart #30, because of tolx.
+924030 +1.278098150e-01 +1.229457498e-01 +1.893780982e+01 +1.893294575e+01
+ % restart: Indep. restart #31, because of tolx.
+954362 +3.150092822e-01 +1.229457498e-01 +1.912500928e+01 +1.893294575e+01
+ % restart: Indep. restart #32, because of tolx.
+981514 +4.158338676e-01 +1.229457498e-01 +1.922583387e+01 +1.893294575e+01
+ % restart: Indep. restart #33, because of tolx.
+1016331 +1.380066886e-01 +1.229457498e-01 +1.894800669e+01 +1.893294575e+01
+ % restart: Indep. restart #34, because of tolx.
+1049153 +2.098797459e-01 +1.229457498e-01 +1.901987975e+01 +1.893294575e+01
+ % restart: Indep. restart #35, because of tolx.
+1084840 +4.567444890e-01 +1.229457498e-01 +1.926674449e+01 +1.893294575e+01
+ % restart: Indep. restart #36, because of tolx.
+1113327 +4.938864234e-01 +1.229457498e-01 +1.930388642e+01 +1.893294575e+01
+ % restart: Indep. restart #37, because of tolx.
+1140644 +1.580147030e-01 +1.229457498e-01 +1.896801470e+01 +1.893294575e+01
+ % restart: Indep. restart #38, because of tolx.
+1171606 +6.287632799e-01 +1.229457498e-01 +1.943876328e+01 +1.893294575e+01
+ % restart: Indep. restart #39, because of tolx.
+1206993 +5.935820678e-01 +1.229457498e-01 +1.940358207e+01 +1.893294575e+01
+ % restart: Indep. restart #40, because of tolx.
+1236650 +1.527716316e-01 +1.229457498e-01 +1.896277163e+01 +1.893294575e+01
+ % restart: Indep. restart #41, because of tolx.
+1265887 +6.119364428e-01 +1.229457498e-01 +1.942193644e+01 +1.893294575e+01
+ % restart: Indep. restart #42, because of tolx.
+1297914 +2.060416027e-01 +1.229457498e-01 +1.901604160e+01 +1.893294575e+01
+ % restart: Indep. restart #43, because of tolx.
+1330316 +3.292084276e-01 +1.229457498e-01 +1.913920843e+01 +1.893294575e+01
+ % restart: Indep. restart #44, because of tolx.
+1356328 +3.113115272e-01 +1.229457498e-01 +1.912131153e+01 +1.893294575e+01
+ % restart: Indep. restart #45, because of tolx.
+1391745 +1.874850349e+00 +1.229457498e-01 +2.068485035e+01 +1.893294575e+01
+ % restart: Indep. restart #46, because of tolx.
+1421282 +1.357447110e-01 +1.229457498e-01 +1.894574471e+01 +1.893294575e+01
+ % restart: Indep. restart #47, because of tolx.
+1451839 +1.353121669e+00 +1.229457498e-01 +2.016312167e+01 +1.893294575e+01
+ % restart: Indep. restart #48, because of tolx.
+1487256 +9.323969391e-01 +1.229457498e-01 +1.974239694e+01 +1.893294575e+01
+ % restart: Indep. restart #49, because of tolx.
+1518743 +6.304381749e-01 +1.229457498e-01 +1.944043817e+01 +1.893294575e+01
+ % restart: Indep. restart #50, because of tolx.
+1547125 +9.802323877e-01 +1.229457498e-01 +1.979023239e+01 +1.893294575e+01
+ % restart: Indep. restart #51, because of tolx.
+1577082 +7.697801751e-01 +1.229457498e-01 +1.957978018e+01 +1.893294575e+01
+ % restart: Indep. restart #52, because of tolx.
+1607444 +6.898920994e-01 +1.229457498e-01 +1.949989210e+01 +1.893294575e+01
+ % restart: Indep. restart #53, because of tolx.
+1633966 +5.404586296e-01 +1.229457498e-01 +1.935045863e+01 +1.893294575e+01
+ % restart: Indep. restart #54, because of tolx.
+1662888 +7.429356398e-01 +1.229457498e-01 +1.955293564e+01 +1.893294575e+01
+ % restart: Indep. restart #55, because of tolx.
+1705850 +5.659001482e-01 +1.229457498e-01 +1.937590015e+01 +1.893294575e+01
+ % restart: Indep. restart #56, because of tolx.
+1729402 +4.470176664e-01 +1.229457498e-01 +1.925701767e+01 +1.893294575e+01
+ % restart: Indep. restart #57, because of tolx.
+1759764 +7.966716103e-01 +1.229457498e-01 +1.960667161e+01 +1.893294575e+01
+ % restart: Indep. restart #58, because of tolx.
+1788671 +4.176340176e-01 +1.229457498e-01 +1.922763402e+01 +1.893294575e+01
+ % restart: Indep. restart #59, because of tolx.
+1814803 +3.272532217e-01 +1.229457498e-01 +1.913725322e+01 +1.893294575e+01
+ % restart: Indep. restart #60, because of tolx.
+1848330 +3.298032110e-01 +1.229457498e-01 +1.913980321e+01 +1.893294575e+01
+ % restart: Indep. restart #61, because of tolx.
+1880507 +1.962349349e-01 +1.229457498e-01 +1.900623493e+01 +1.893294575e+01
+ % restart: Indep. restart #62, because of tolx.
+1909744 +4.113996698e-01 +1.229457498e-01 +1.922139967e+01 +1.893294575e+01
+ % restart: Indep. restart #63, because of tolx.
+1938261 +3.409800763e-01 +1.229457498e-01 +1.915098008e+01 +1.893294575e+01
+ % restart: Indep. restart #64, because of tolx.
+1963403 +2.590517332e-01 +1.229457498e-01 +1.906905173e+01 +1.893294575e+01
+ % restart: Indep. restart #65, because of tolx.
+1993435 +3.775336814e-01 +1.229457498e-01 +1.918753368e+01 +1.893294575e+01
+ % function evaluation | noise-free fitness - Fopt (2.731500000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolx.
+41957 +7.657267780e-01 +7.657267780e-01 +2.739157268e+02 +2.739157268e+02
+ % restart: Indep. restart #2, because of tolx.
+73324 +9.569193603e-01 +7.657267780e-01 +2.741069194e+02 +2.739157268e+02
+ % restart: Indep. restart #3, because of tolx.
+105726 +3.736626452e+00 +7.657267780e-01 +2.768866265e+02 +2.739157268e+02
+ % restart: Indep. restart #4, because of tolx.
+131018 +1.343366648e-01 +1.343366648e-01 +2.732843367e+02 +2.732843367e+02
+ % restart: Indep. restart #5, because of tolx.
+163090 +5.405988413e-01 +1.343366648e-01 +2.736905988e+02 +2.732843367e+02
+ % restart: Indep. restart #6, because of tolx.
+199107 +1.072731761e+00 +1.343366648e-01 +2.742227318e+02 +2.732843367e+02
+ % restart: Indep. restart #7, because of tolx.
+230174 +5.226535561e-01 +1.343366648e-01 +2.736726536e+02 +2.732843367e+02
+ % restart: Indep. restart #8, because of tolx.
+258376 +1.153311610e+00 +1.343366648e-01 +2.743033116e+02 +2.732843367e+02
+ % restart: Indep. restart #9, because of tolx.
+286008 +8.785717014e-01 +1.343366648e-01 +2.740285717e+02 +2.732843367e+02
+ % restart: Indep. restart #10, because of tolx.
+316325 +5.347174652e-01 +1.343366648e-01 +2.736847175e+02 +2.732843367e+02
+ % restart: Indep. restart #11, because of tolx.
+344692 +6.751610704e-01 +1.343366648e-01 +2.738251611e+02 +2.732843367e+02
+ % restart: Indep. restart #12, because of tolx.
+371214 +3.494590590e-01 +1.343366648e-01 +2.734994591e+02 +2.732843367e+02
+ % restart: Indep. restart #13, because of tolx.
+405881 +1.621167335e+00 +1.343366648e-01 +2.747711673e+02 +2.732843367e+02
+ % restart: Indep. restart #14, because of tolx.
+438373 +5.127784589e-01 +1.343366648e-01 +2.736627785e+02 +2.732843367e+02
+ % restart: Indep. restart #15, because of tolx.
+467595 +3.634330323e-01 +1.343366648e-01 +2.735134330e+02 +2.732843367e+02
+ % restart: Indep. restart #16, because of tolx.
+504512 +3.147973434e+00 +1.343366648e-01 +2.762979734e+02 +2.732843367e+02
+ % restart: Indep. restart #17, because of tolx.
+537394 +6.509461259e-01 +1.343366648e-01 +2.738009461e+02 +2.732843367e+02
+ % restart: Indep. restart #18, because of tolx.
+563496 +1.243602252e-01 +1.243601311e-01 +2.732743602e+02 +2.732743601e+02
+ % restart: Indep. restart #19, because of tolx.
+596528 +1.242387143e+00 +1.243601311e-01 +2.743923871e+02 +2.732743601e+02
+ % restart: Indep. restart #20, because of tolx.
+625765 +2.676815020e-01 +1.243601311e-01 +2.734176815e+02 +2.732743601e+02
+ % restart: Indep. restart #21, because of tolx.
+662802 +2.150397899e+00 +1.243601311e-01 +2.753003979e+02 +2.732743601e+02
+ % restart: Indep. restart #22, because of tolx.
+692999 +1.255241299e+00 +1.243601311e-01 +2.744052413e+02 +2.732743601e+02
+ % restart: Indep. restart #23, because of tolx.
+718591 +9.989164865e-01 +1.243601311e-01 +2.741489165e+02 +2.732743601e+02
+ % restart: Indep. restart #24, because of tolx.
+751728 +3.266757645e+00 +1.243601311e-01 +2.764167576e+02 +2.732743601e+02
+ % restart: Indep. restart #25, because of tolx.
+786005 +4.007587641e-01 +1.243601311e-01 +2.735507588e+02 +2.732743601e+02
+ % restart: Indep. restart #26, because of tolx.
+814792 +1.224547588e+00 +1.243601311e-01 +2.743745476e+02 +2.732743601e+02
+ % restart: Indep. restart #27, because of tolx.
+844134 +2.428178075e+00 +1.243601311e-01 +2.755781781e+02 +2.732743601e+02
+ % restart: Indep. restart #28, because of tolx.
+869756 +8.576967802e-01 +1.243601311e-01 +2.740076968e+02 +2.732743601e+02
+ % restart: Indep. restart #29, because of tolx.
+900568 +1.265237064e+00 +1.243601311e-01 +2.744152371e+02 +2.732743601e+02
+ % restart: Indep. restart #30, because of tolx.
+927420 +9.617825159e-01 +1.243601311e-01 +2.741117825e+02 +2.732743601e+02
+ % restart: Indep. restart #31, because of tolx.
+951977 +2.323884401e-01 +1.243601311e-01 +2.733823884e+02 +2.732743601e+02
+ % restart: Indep. restart #32, because of tolx.
+991909 +1.275592386e+00 +1.243601311e-01 +2.744255924e+02 +2.732743601e+02
+ % restart: Indep. restart #33, because of tolx.
+1019601 +3.994347670e-01 +1.243601311e-01 +2.735494348e+02 +2.732743601e+02
+ % restart: Indep. restart #34, because of tolx.
+1050338 +1.688394256e+00 +1.243601311e-01 +2.748383943e+02 +2.732743601e+02
+ % restart: Indep. restart #35, because of tolx.
+1082620 +4.201190817e-01 +1.243601311e-01 +2.735701191e+02 +2.732743601e+02
+ % restart: Indep. restart #36, because of tolx.
+1110132 +1.431656714e+00 +1.243601311e-01 +2.745816567e+02 +2.732743601e+02
+ % restart: Indep. restart #37, because of tolx.
+1142204 +7.439307235e-01 +1.243601311e-01 +2.738939307e+02 +2.732743601e+02
+ % restart: Indep. restart #38, because of tolx.
+1169671 +1.436732241e+00 +1.243601311e-01 +2.745867322e+02 +2.732743601e+02
+ % restart: Indep. restart #39, because of tolx.
+1206513 +1.167298978e+00 +1.243601311e-01 +2.743172990e+02 +2.732743601e+02
+ % restart: Indep. restart #40, because of tolx.
+1240505 +8.983489252e-01 +1.243601311e-01 +2.740483489e+02 +2.732743601e+02
+ % restart: Indep. restart #41, because of tolx.
+1267357 +1.779435542e+00 +1.243601311e-01 +2.749294355e+02 +2.732743601e+02
+ % restart: Indep. restart #42, because of tolx.
+1294839 +2.778534952e-01 +1.243601311e-01 +2.734278535e+02 +2.732743601e+02
+ % restart: Indep. restart #43, because of tolx.
+1323911 +2.054305709e+00 +1.243601311e-01 +2.752043057e+02 +2.732743601e+02
+ % restart: Indep. restart #44, because of tolx.
+1354288 +9.305488879e-01 +1.243601311e-01 +2.740805489e+02 +2.732743601e+02
+ % restart: Indep. restart #45, because of tolx.
+1385145 +5.490474672e-01 +1.243601311e-01 +2.736990475e+02 +2.732743601e+02
+ % restart: Indep. restart #46, because of tolx.
+1414712 +1.169906310e+00 +1.243601311e-01 +2.743199063e+02 +2.732743601e+02
+ % restart: Indep. restart #47, because of tolx.
+1442269 +3.150330527e-01 +1.243601311e-01 +2.734650331e+02 +2.732743601e+02
+ % restart: Indep. restart #48, because of tolx.
+1470666 +1.312437765e+00 +1.243601311e-01 +2.744624378e+02 +2.732743601e+02
+ % restart: Indep. restart #49, because of tolx.
+1500548 +4.265152150e+00 +1.243601311e-01 +2.774151521e+02 +2.732743601e+02
+ % restart: Indep. restart #50, because of tolx.
+1530460 +2.062566131e-01 +1.243601311e-01 +2.733562566e+02 +2.732743601e+02
+ % restart: Indep. restart #51, because of tolx.
+1562607 +2.693894840e-01 +1.243601311e-01 +2.734193895e+02 +2.732743601e+02
+ % restart: Indep. restart #52, because of tolx.
+1593524 +6.774899551e-01 +1.243601311e-01 +2.738274900e+02 +2.732743601e+02
+ % restart: Indep. restart #53, because of tolx.
+1628581 +6.860581586e-01 +1.243601311e-01 +2.738360582e+02 +2.732743601e+02
+ % restart: Indep. restart #54, because of tolx.
+1659288 +4.449423665e+00 +1.243601311e-01 +2.775994237e+02 +2.732743601e+02
+ % restart: Indep. restart #55, because of tolx.
+1687100 +6.853377171e-01 +1.243601311e-01 +2.738353377e+02 +2.732743601e+02
+ % restart: Indep. restart #56, because of tolx.
+1715842 +9.631620526e-01 +1.243601311e-01 +2.741131621e+02 +2.732743601e+02
+ % restart: Indep. restart #57, because of tolx.
+1754229 +1.179926399e-01 +1.179926351e-01 +2.732679926e+02 +2.732679926e+02
+ % restart: Indep. restart #58, because of tolx.
+1782821 +8.608523014e-01 +1.179926351e-01 +2.740108523e+02 +2.732679926e+02
+ % restart: Indep. restart #59, because of tolx.
+1817248 +9.946604018e-01 +1.179926351e-01 +2.741446604e+02 +2.732679926e+02
+ % restart: Indep. restart #60, because of tolx.
+1851420 +7.506910283e-01 +1.179926351e-01 +2.739006910e+02 +2.732679926e+02
+ % restart: Indep. restart #61, because of tolx.
+1884932 +1.427231576e+00 +1.179926351e-01 +2.745772316e+02 +2.732679926e+02
+ % restart: Indep. restart #62, because of tolx.
+1914934 +2.022143616e-01 +1.179926351e-01 +2.733522144e+02 +2.732679926e+02
+ % restart: Indep. restart #63, because of tolx.
+1950486 +1.401892082e+00 +1.179926351e-01 +2.745518921e+02 +2.732679926e+02
+ % restart: Indep. restart #64, because of tolx.
+1982348 +4.172795922e-01 +1.179926351e-01 +2.735672796e+02 +2.732679926e+02
+ % function evaluation | noise-free fitness - Fopt (3.718000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolx.
+25577 +8.816653268e-01 +8.816653268e-01 +3.806166533e+01 +3.806166533e+01
+ % restart: Indep. restart #2, because of tolx.
+54349 +8.962817021e-01 +8.816653268e-01 +3.807628170e+01 +3.806166533e+01
+ % restart: Indep. restart #3, because of tolx.
+88476 +1.157266103e+00 +8.816653268e-01 +3.833726610e+01 +3.806166533e+01
+ % restart: Indep. restart #4, because of tolx.
+116543 +1.529279591e+00 +8.816653268e-01 +3.870927959e+01 +3.806166533e+01
+ % restart: Indep. restart #5, because of tolx.
+148600 +5.806125582e-01 +5.806125582e-01 +3.776061256e+01 +3.776061256e+01
+ % restart: Indep. restart #6, because of tolx.
+173832 +4.208257400e-01 +4.208256991e-01 +3.760082574e+01 +3.760082570e+01
+ % restart: Indep. restart #7, because of tolx.
+198119 +2.530776664e-01 +2.530776664e-01 +3.743307767e+01 +3.743307767e+01
+ % restart: Indep. restart #8, because of tolx.
+235201 +1.102969162e+00 +2.530776664e-01 +3.828296916e+01 +3.743307767e+01
+ % restart: Indep. restart #9, because of tolx.
+263058 +7.632651113e-01 +2.530776664e-01 +3.794326511e+01 +3.743307767e+01
+ % restart: Indep. restart #10, because of tolx.
+290870 +3.326324879e-01 +2.530776664e-01 +3.751263249e+01 +3.743307767e+01
+ % restart: Indep. restart #11, because of tolx.
+314902 +2.341931907e-01 +2.341931907e-01 +3.741419319e+01 +3.741419319e+01
+ % restart: Indep. restart #12, because of tolx.
+348714 +2.562303066e-01 +2.341931907e-01 +3.743623031e+01 +3.741419319e+01
+ % restart: Indep. restart #13, because of tolx.
+379601 +5.892392162e-01 +2.341931907e-01 +3.776923922e+01 +3.741419319e+01
+ % restart: Indep. restart #14, because of tolx.
+411463 +3.697895983e-01 +2.341931907e-01 +3.754978960e+01 +3.741419319e+01
+ % restart: Indep. restart #15, because of tolx.
+438165 +3.963274519e-01 +2.341931907e-01 +3.757632745e+01 +3.741419319e+01
+ % restart: Indep. restart #16, because of tolx.
+475052 +3.463726093e-01 +2.341931907e-01 +3.752637261e+01 +3.741419319e+01
+ % restart: Indep. restart #17, because of tolx.
+503614 +3.590819867e-01 +2.341931907e-01 +3.753908199e+01 +3.741419319e+01
+ % restart: Indep. restart #18, because of tolx.
+555396 +8.722453110e-01 +2.341931907e-01 +3.805224531e+01 +3.741419319e+01
+ % restart: Indep. restart #19, because of tolx.
+585353 +3.812563021e-01 +2.341931907e-01 +3.756125630e+01 +3.741419319e+01
+ % restart: Indep. restart #20, because of tolx.
+613435 +4.380966602e-01 +2.341931907e-01 +3.761809666e+01 +3.741419319e+01
+ % restart: Indep. restart #21, because of tolx.
+649482 +1.453101983e+00 +2.341931907e-01 +3.863310198e+01 +3.741419319e+01
+ % restart: Indep. restart #22, because of tolx.
+684884 +2.749043665e+00 +2.341931907e-01 +3.992904367e+01 +3.741419319e+01
+ % restart: Indep. restart #23, because of tolx.
+712831 +1.319167602e-01 +1.319167303e-01 +3.731191676e+01 +3.731191673e+01
+ % restart: Indep. restart #24, because of tolx.
+739518 +6.686592704e-01 +1.319167303e-01 +3.784865927e+01 +3.731191673e+01
+ % restart: Indep. restart #25, because of tolx.
+780875 +1.052663134e+00 +1.319167303e-01 +3.823266313e+01 +3.731191673e+01
+ % restart: Indep. restart #26, because of tolx.
+809422 +4.875815980e-01 +1.319167303e-01 +3.766758160e+01 +3.731191673e+01
+ % restart: Indep. restart #27, because of tolx.
+840954 +1.675292209e+00 +1.319167303e-01 +3.885529221e+01 +3.731191673e+01
+ % restart: Indep. restart #28, because of tolx.
+869126 +2.889207286e-01 +1.319167303e-01 +3.746892073e+01 +3.731191673e+01
+ % restart: Indep. restart #29, because of tolx.
+898858 +3.550244375e-01 +1.319167303e-01 +3.753502444e+01 +3.731191673e+01
+ % restart: Indep. restart #30, because of tolx.
+927210 +1.210262182e-01 +1.210262182e-01 +3.730102622e+01 +3.730102622e+01
+ % restart: Indep. restart #31, because of tolx.
+954062 +8.065213547e-01 +1.210262182e-01 +3.798652135e+01 +3.730102622e+01
+ % restart: Indep. restart #32, because of tolx.
+985834 +6.752691934e-01 +1.210262182e-01 +3.785526919e+01 +3.730102622e+01
+ % restart: Indep. restart #33, because of tolx.
+1013361 +5.027548021e-01 +1.210262182e-01 +3.768275480e+01 +3.730102622e+01
+ % restart: Indep. restart #34, because of tolx.
+1043813 +3.829414504e-01 +1.210262182e-01 +3.756294145e+01 +3.730102622e+01
+ % restart: Indep. restart #35, because of tolx.
+1071970 +1.376290354e-01 +1.210262182e-01 +3.731762904e+01 +3.730102622e+01
+ % restart: Indep. restart #36, because of tolx.
+1100652 +9.792891654e-01 +1.210262182e-01 +3.815928917e+01 +3.730102622e+01
+ % restart: Indep. restart #37, because of tolx.
+1129904 +9.674513674e-01 +1.210262182e-01 +3.814745137e+01 +3.730102622e+01
+ % restart: Indep. restart #38, because of tolx.
+1159936 +6.751906282e-01 +1.210262182e-01 +3.785519063e+01 +3.730102622e+01
+ % restart: Indep. restart #39, because of tolx.
+1188963 +7.959040706e-02 +7.959040607e-02 +3.725959041e+01 +3.725959041e+01
+ % restart: Indep. restart #40, because of tolx.
+1220285 +6.549505608e-01 +7.959040607e-02 +3.783495056e+01 +3.725959041e+01
+ % restart: Indep. restart #41, because of tolx.
+1248487 +2.442455543e-01 +7.959040607e-02 +3.742424555e+01 +3.725959041e+01
+ % restart: Indep. restart #42, because of tolx.
+1280859 +3.011412658e-01 +7.959040607e-02 +3.748114127e+01 +3.725959041e+01
+ % restart: Indep. restart #43, because of tolx.
+1310621 +6.541444059e-01 +7.959040607e-02 +3.783414441e+01 +3.725959041e+01
+ % restart: Indep. restart #44, because of tolx.
+1339093 +5.575900542e-01 +7.959040607e-02 +3.773759005e+01 +3.725959041e+01
+ % restart: Indep. restart #45, because of tolx.
+1368645 +1.198781222e-01 +7.959040607e-02 +3.729987812e+01 +3.725959041e+01
+ % restart: Indep. restart #46, because of tolx.
+1399037 +8.584431891e-01 +7.959040607e-02 +3.803844319e+01 +3.725959041e+01
+ % restart: Indep. restart #47, because of tolx.
+1436479 +4.776723270e-01 +7.959040607e-02 +3.765767233e+01 +3.725959041e+01
+ % restart: Indep. restart #48, because of tolx.
+1464846 +6.377245513e-01 +7.959040607e-02 +3.781772455e+01 +3.725959041e+01
+ % restart: Indep. restart #49, because of tolx.
+1505093 +5.822389527e-01 +7.959040607e-02 +3.776223895e+01 +3.725959041e+01
+ % restart: Indep. restart #50, because of tolx.
+1532200 +8.899294793e-01 +7.959040607e-02 +3.806992948e+01 +3.725959041e+01
+ % restart: Indep. restart #51, because of tolx.
+1558437 +1.814883292e-01 +7.959040607e-02 +3.736148833e+01 +3.725959041e+01
+ % restart: Indep. restart #52, because of tolx.
+1590974 +6.012963134e-01 +7.959040607e-02 +3.778129631e+01 +3.725959041e+01
+ % restart: Indep. restart #53, because of tolx.
+1618741 +1.998409998e-01 +7.959040607e-02 +3.737984100e+01 +3.725959041e+01
+ % restart: Indep. restart #54, because of tolx.
+1650183 +7.419041632e-01 +7.959040607e-02 +3.792190416e+01 +3.725959041e+01
+ % restart: Indep. restart #55, because of tolx.
+1677575 +1.385483445e+00 +7.959040607e-02 +3.856548345e+01 +3.725959041e+01
+ % restart: Indep. restart #56, because of tolx.
+1713307 +1.267670907e-01 +7.959040607e-02 +3.730676709e+01 +3.725959041e+01
+ % restart: Indep. restart #57, because of tolx.
+1744464 +3.303138161e-01 +7.959040607e-02 +3.751031382e+01 +3.725959041e+01
+ % restart: Indep. restart #58, because of tolx.
+1779056 +2.520978452e-01 +7.959040607e-02 +3.743209785e+01 +3.725959041e+01
+ % restart: Indep. restart #59, because of tolx.
+1811263 +1.293209740e-01 +7.959040607e-02 +3.730932097e+01 +3.725959041e+01
+ % restart: Indep. restart #60, because of tolx.
+1838160 +4.357503110e-01 +7.959040607e-02 +3.761575031e+01 +3.725959041e+01
+ % restart: Indep. restart #61, because of tolx.
+1867217 +7.799881563e-01 +7.959040607e-02 +3.795998816e+01 +3.725959041e+01
+ % restart: Indep. restart #62, because of tolx.
+1894414 +1.594057090e+00 +7.959040607e-02 +3.877405709e+01 +3.725959041e+01
+ % restart: Indep. restart #63, because of tolx.
+1922571 +4.163732014e-01 +7.959040607e-02 +3.759637320e+01 +3.725959041e+01
+ % restart: Indep. restart #64, because of tolx.
+1951538 +5.658263484e-01 +7.959040607e-02 +3.774582635e+01 +3.725959041e+01
+ % restart: Indep. restart #65, because of tolx.
+1985935 +3.137294663e-01 +7.959040607e-02 +3.749372947e+01 +3.725959041e+01
+ % function evaluation | noise-free fitness - Fopt (-1.479000000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolx.
+26447 +2.801996644e-01 +2.801996506e-01 -1.476198003e+02 -1.476198003e+02
+ % restart: Indep. restart #2, because of tolx.
+56794 +3.221934595e-01 +2.801996506e-01 -1.475778065e+02 -1.476198003e+02
+ % restart: Indep. restart #3, because of tolx.
+86706 +3.251132097e+00 +2.801996506e-01 -1.446488679e+02 -1.476198003e+02
+ % restart: Indep. restart #4, because of tolx.
+117833 +7.253286980e-01 +2.801996506e-01 -1.471746713e+02 -1.476198003e+02
+ % restart: Indep. restart #5, because of tolx.
+146755 +5.451545044e-01 +2.801996506e-01 -1.473548455e+02 -1.476198003e+02
+ % restart: Indep. restart #6, because of tolx.
+171912 +3.018831161e-01 +2.801996506e-01 -1.475981169e+02 -1.476198003e+02
+ % restart: Indep. restart #7, because of tolx.
+201314 +2.859806220e-01 +2.801996506e-01 -1.476140194e+02 -1.476198003e+02
+ % restart: Indep. restart #8, because of tolx.
+233311 +1.329328860e+00 +2.801996506e-01 -1.465706711e+02 -1.476198003e+02
+ % restart: Indep. restart #9, because of tolx.
+264078 +2.782499869e-01 +2.782499414e-01 -1.476217500e+02 -1.476217501e+02
+ % restart: Indep. restart #10, because of tolx.
+292580 +9.870894529e-01 +2.782499414e-01 -1.469129105e+02 -1.476217501e+02
+ % restart: Indep. restart #11, because of tolx.
+322402 +3.745196745e-01 +2.782499414e-01 -1.475254803e+02 -1.476217501e+02
+ % restart: Indep. restart #12, because of tolx.
+351084 +6.317016370e-01 +2.782499414e-01 -1.472682984e+02 -1.476217501e+02
+ % restart: Indep. restart #13, because of tolx.
+377396 +9.763249801e-01 +2.782499414e-01 -1.469236750e+02 -1.476217501e+02
+ % restart: Indep. restart #14, because of tolx.
+407173 +1.815434669e+00 +2.782499414e-01 -1.460845653e+02 -1.476217501e+02
+ % restart: Indep. restart #15, because of tolx.
+442890 +2.855592647e-01 +2.782499414e-01 -1.476144407e+02 -1.476217501e+02
+ % restart: Indep. restart #16, because of tolx.
+473747 +5.147874893e-01 +2.782499414e-01 -1.473852125e+02 -1.476217501e+02
+ % restart: Indep. restart #17, because of tolx.
+511819 +1.053926000e+00 +2.782499414e-01 -1.468460740e+02 -1.476217501e+02
+ % restart: Indep. restart #18, because of tolx.
+542436 +2.865496946e-01 +2.782499414e-01 -1.476134503e+02 -1.476217501e+02
+ % restart: Indep. restart #19, because of tolx.
+585503 +7.206334253e-01 +2.782499414e-01 -1.471793666e+02 -1.476217501e+02
+ % restart: Indep. restart #20, because of tolx.
+613645 +3.502570683e-01 +2.782499414e-01 -1.475497429e+02 -1.476217501e+02
+ % restart: Indep. restart #21, because of tolx.
+642207 +2.422518937e-01 +2.422518937e-01 -1.476577481e+02 -1.476577481e+02
+ % restart: Indep. restart #22, because of tolx.
+671534 +6.466548946e-01 +2.422518937e-01 -1.472533451e+02 -1.476577481e+02
+ % restart: Indep. restart #23, because of tolx.
+703846 +7.787497934e-01 +2.422518937e-01 -1.471212502e+02 -1.476577481e+02
+ % restart: Indep. restart #24, because of tolx.
+732603 +2.708261711e-01 +2.422518937e-01 -1.476291738e+02 -1.476577481e+02
+ % restart: Indep. restart #25, because of tolx.
+760415 +2.152414759e-01 +2.152414473e-01 -1.476847585e+02 -1.476847586e+02
+ % restart: Indep. restart #26, because of tolx.
+790822 +2.768360645e-01 +2.152414473e-01 -1.476231639e+02 -1.476847586e+02
+ % restart: Indep. restart #27, because of tolx.
+823149 +2.829786928e-01 +2.152414473e-01 -1.476170213e+02 -1.476847586e+02
+ % restart: Indep. restart #28, because of tolx.
+850451 +1.115002722e-01 +1.115002722e-01 -1.477884997e+02 -1.477884997e+02
+ % restart: Indep. restart #29, because of tolx.
+888523 +2.531374869e+00 +1.115002722e-01 -1.453686251e+02 -1.477884997e+02
+ % restart: Indep. restart #30, because of tolx.
+922650 +2.378730581e-01 +1.115002722e-01 -1.476621269e+02 -1.477884997e+02
+ % restart: Indep. restart #31, because of tolx.
+949382 +1.939350367e-01 +1.115002722e-01 -1.477060650e+02 -1.477884997e+02
+ % restart: Indep. restart #32, because of tolx.
+980299 +2.493431144e-01 +1.115002722e-01 -1.476506569e+02 -1.477884997e+02
+ % restart: Indep. restart #33, because of tolx.
+1020096 +3.060193506e+00 +1.115002722e-01 -1.448398065e+02 -1.477884997e+02
+ % restart: Indep. restart #34, because of tolx.
+1047308 +1.511569411e-01 +1.115002722e-01 -1.477488431e+02 -1.477884997e+02
+ % restart: Indep. restart #35, because of tolx.
+1079590 +4.292220476e-01 +1.115002722e-01 -1.474707780e+02 -1.477884997e+02
+ % restart: Indep. restart #36, because of tolx.
+1110207 +2.706245937e+00 +1.115002722e-01 -1.451937541e+02 -1.477884997e+02
+ % restart: Indep. restart #37, because of tolx.
+1137479 +2.352258610e-01 +1.115002722e-01 -1.476647741e+02 -1.477884997e+02
+ % restart: Indep. restart #38, because of tolx.
+1177486 +1.358334860e+00 +1.115002722e-01 -1.465416651e+02 -1.477884997e+02
+ % restart: Indep. restart #39, because of tolx.
+1213173 +9.637077751e-01 +1.115002722e-01 -1.469362922e+02 -1.477884997e+02
+ % restart: Indep. restart #40, because of tolx.
+1251725 +1.079439727e+00 +1.115002722e-01 -1.468205603e+02 -1.477884997e+02
+ % restart: Indep. restart #41, because of tolx.
+1281307 +7.712347388e-01 +1.115002722e-01 -1.471287653e+02 -1.477884997e+02
+ % restart: Indep. restart #42, because of tolx.
+1313634 +6.140391927e-01 +1.115002722e-01 -1.472859608e+02 -1.477884997e+02
+ % restart: Indep. restart #43, because of tolx.
+1349846 +4.515331800e-01 +1.115002722e-01 -1.474484668e+02 -1.477884997e+02
+ % restart: Indep. restart #44, because of tolx.
+1382593 +7.433987692e-01 +1.115002722e-01 -1.471566012e+02 -1.477884997e+02
+ % restart: Indep. restart #45, because of tolx.
+1415130 +1.356267651e+00 +1.115002722e-01 -1.465437323e+02 -1.477884997e+02
+ % restart: Indep. restart #46, because of tolx.
+1444907 +2.615445439e-01 +1.115002722e-01 -1.476384555e+02 -1.477884997e+02
+ % restart: Indep. restart #47, because of tolx.
+1475164 +3.321618743e-01 +1.115002722e-01 -1.475678381e+02 -1.477884997e+02
+ % restart: Indep. restart #48, because of tolx.
+1505421 +3.548100174e-01 +1.115002722e-01 -1.475451900e+02 -1.477884997e+02
+ % restart: Indep. restart #49, because of tolx.
+1539398 +1.140514687e+00 +1.115002722e-01 -1.467594853e+02 -1.477884997e+02
+ % restart: Indep. restart #50, because of tolx.
+1571620 +4.132855032e-01 +1.115002722e-01 -1.474867145e+02 -1.477884997e+02
+ % restart: Indep. restart #51, because of tolx.
+1596147 +1.131772400e+00 +1.115002722e-01 -1.467682276e+02 -1.477884997e+02
+ % restart: Indep. restart #52, because of tolx.
+1628609 +1.837836140e+00 +1.115002722e-01 -1.460621639e+02 -1.477884997e+02
+ % restart: Indep. restart #53, because of tolx.
+1660441 +2.812886900e+00 +1.115002722e-01 -1.450871131e+02 -1.477884997e+02
+ % restart: Indep. restart #54, because of tolx.
+1688913 +6.276762385e-01 +1.115002722e-01 -1.472723238e+02 -1.477884997e+02
+ % restart: Indep. restart #55, because of tolx.
+1719425 +1.226295286e+00 +1.115002722e-01 -1.466737047e+02 -1.477884997e+02
+ % restart: Indep. restart #56, because of tolx.
+1753627 +1.351462993e+00 +1.115002722e-01 -1.465485370e+02 -1.477884997e+02
+ % restart: Indep. restart #57, because of tolx.
+1781874 +4.792109804e+00 +1.115002722e-01 -1.431078902e+02 -1.477884997e+02
+ % restart: Indep. restart #58, because of tolx.
+1814231 +1.065770556e+00 +1.115002722e-01 -1.468342294e+02 -1.477884997e+02
+ % restart: Indep. restart #59, because of tolx.
+1849153 +1.249827148e+00 +1.115002722e-01 -1.466501729e+02 -1.477884997e+02
+ % restart: Indep. restart #60, because of tolx.
+1878315 +6.674538853e-01 +1.115002722e-01 -1.472325461e+02 -1.477884997e+02
+ % restart: Indep. restart #61, because of tolx.
+1907207 +1.655932399e-01 +1.115002722e-01 -1.477344068e+02 -1.477884997e+02
+ % restart: Indep. restart #62, because of tolx.
+1938844 +7.996353299e-01 +1.115002722e-01 -1.471003647e+02 -1.477884997e+02
+ % restart: Indep. restart #63, because of tolx.
+1969221 +7.679852871e-01 +1.115002722e-01 -1.471320147e+02 -1.477884997e+02
+ % function evaluation | noise-free fitness - Fopt (4.060000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolx.
+31622 +4.925533889e-01 +4.925533889e-01 +4.109255339e+01 +4.109255339e+01
+ % restart: Indep. restart #2, because of tolx.
+63349 +4.756436734e-01 +4.756436601e-01 +4.107564367e+01 +4.107564366e+01
+ % restart: Indep. restart #3, because of tolx.
+86376 +7.248164834e-01 +4.756436601e-01 +4.132481648e+01 +4.107564366e+01
+ % restart: Indep. restart #4, because of tolx.
+114548 +8.099884121e-01 +4.756436601e-01 +4.140998841e+01 +4.107564366e+01
+ % restart: Indep. restart #5, because of tolx.
+143080 +6.329933162e-01 +4.756436601e-01 +4.123299332e+01 +4.107564366e+01
+ % restart: Indep. restart #6, because of tolx.
+172422 +1.256661337e+00 +4.756436601e-01 +4.185666134e+01 +4.107564366e+01
+ % restart: Indep. restart #7, because of tolx.
+203489 +8.180373639e-01 +4.756436601e-01 +4.141803736e+01 +4.107564366e+01
+ % restart: Indep. restart #8, because of tolx.
+232096 +9.689179540e-01 +4.756436601e-01 +4.156891795e+01 +4.107564366e+01
+ % restart: Indep. restart #9, because of tolx.
+259518 +1.418892736e+00 +4.756436601e-01 +4.201889274e+01 +4.107564366e+01
+ % restart: Indep. restart #10, because of tolx.
+288995 +1.581729953e+00 +4.756436601e-01 +4.218172995e+01 +4.107564366e+01
+ % restart: Indep. restart #11, because of tolx.
+316417 +2.895966238e-01 +2.895966238e-01 +4.088959662e+01 +4.088959662e+01
+ % restart: Indep. restart #12, because of tolx.
+341784 +3.612957152e-01 +2.895966238e-01 +4.096129572e+01 +4.088959662e+01
+ % restart: Indep. restart #13, because of tolx.
+371036 +1.194072311e-01 +1.194072250e-01 +4.071940723e+01 +4.071940722e+01
+ % restart: Indep. restart #14, because of tolx.
+396418 +3.238423088e-01 +1.194072250e-01 +4.092384231e+01 +4.071940722e+01
+ % restart: Indep. restart #15, because of tolx.
+427395 +1.314974109e+00 +1.194072250e-01 +4.191497411e+01 +4.071940722e+01
+ % restart: Indep. restart #16, because of tolx.
+458597 +4.445991581e-01 +1.194072250e-01 +4.104459916e+01 +4.071940722e+01
+ % restart: Indep. restart #17, because of tolx.
+494104 +1.317338140e+00 +1.194072250e-01 +4.191733814e+01 +4.071940722e+01
+ % restart: Indep. restart #18, because of tolx.
+524946 +4.598941744e-01 +1.194072250e-01 +4.105989417e+01 +4.071940722e+01
+ % restart: Indep. restart #19, because of tolx.
+555188 +1.214476341e+00 +1.194072250e-01 +4.181447634e+01 +4.071940722e+01
+ % restart: Indep. restart #20, because of tolx.
+585190 +8.213690084e-01 +1.194072250e-01 +4.142136901e+01 +4.071940722e+01
+ % restart: Indep. restart #21, because of tolx.
+620982 +4.450001845e-01 +1.194072250e-01 +4.104500018e+01 +4.071940722e+01
+ % restart: Indep. restart #22, because of tolx.
+647459 +5.655001515e-01 +1.194072250e-01 +4.116550015e+01 +4.071940722e+01
+ % restart: Indep. restart #23, because of tolx.
+680656 +1.056938311e+00 +1.194072250e-01 +4.165693831e+01 +4.071940722e+01
+ % restart: Indep. restart #24, because of tolx.
+711258 +2.292619127e-01 +1.194072250e-01 +4.082926191e+01 +4.071940722e+01
+ % restart: Indep. restart #25, because of tolx.
+741710 +9.244517923e-01 +1.194072250e-01 +4.152445179e+01 +4.071940722e+01
+ % restart: Indep. restart #26, because of tolx.
+769402 +7.779963133e-01 +1.194072250e-01 +4.137799631e+01 +4.071940722e+01
+ % restart: Indep. restart #27, because of tolx.
+809259 +8.936477072e-01 +1.194072250e-01 +4.149364771e+01 +4.071940722e+01
+ % restart: Indep. restart #28, because of tolx.
+843146 +2.895687801e-01 +1.194072250e-01 +4.088956878e+01 +4.071940722e+01
+ % restart: Indep. restart #29, because of tolx.
+883348 +6.086694818e-01 +1.194072250e-01 +4.120866948e+01 +4.071940722e+01
+ % restart: Indep. restart #30, because of tolx.
+913155 +2.123460067e-01 +1.194072250e-01 +4.081234601e+01 +4.071940722e+01
+ % restart: Indep. restart #31, because of tolx.
+954857 +8.443325893e-01 +1.194072250e-01 +4.144433259e+01 +4.071940722e+01
+ % restart: Indep. restart #32, because of tolx.
+982339 +5.462734840e-01 +1.194072250e-01 +4.114627348e+01 +4.071940722e+01
+ % restart: Indep. restart #33, because of tolx.
+1012401 +1.362302644e-01 +1.194072250e-01 +4.073623026e+01 +4.071940722e+01
+ % restart: Indep. restart #34, because of tolx.
+1039943 +4.440215293e-01 +1.194072250e-01 +4.104402153e+01 +4.071940722e+01
+ % restart: Indep. restart #35, because of tolx.
+1070020 +4.438836840e-01 +1.194072250e-01 +4.104388368e+01 +4.071940722e+01
+ % restart: Indep. restart #36, because of tolx.
+1102572 +1.091825559e+00 +1.194072250e-01 +4.169182556e+01 +4.071940722e+01
+ % restart: Indep. restart #37, because of tolx.
+1136594 +7.040505217e-01 +1.194072250e-01 +4.130405052e+01 +4.071940722e+01
+ % restart: Indep. restart #38, because of tolx.
+1167466 +2.386875241e-01 +1.194072250e-01 +4.083868752e+01 +4.071940722e+01
+ % restart: Indep. restart #39, because of tolx.
+1193013 +7.389321488e-01 +1.194072250e-01 +4.133893215e+01 +4.071940722e+01
+ % restart: Indep. restart #40, because of tolx.
+1220555 +1.219302879e-01 +1.194072250e-01 +4.072193029e+01 +4.071940722e+01
+ % restart: Indep. restart #41, because of tolx.
+1248877 +1.611803584e+00 +1.194072250e-01 +4.221180358e+01 +4.071940722e+01
+ % restart: Indep. restart #42, because of tolx.
+1278699 +8.144977016e-01 +1.194072250e-01 +4.141449770e+01 +4.071940722e+01
+ % restart: Indep. restart #43, because of tolx.
+1309271 +7.724223275e-01 +1.194072250e-01 +4.137242233e+01 +4.071940722e+01
+ % restart: Indep. restart #44, because of tolx.
+1345273 +3.399597316e+00 +1.194072250e-01 +4.399959732e+01 +4.071940722e+01
+ % restart: Indep. restart #45, because of tolx.
+1376955 +1.099366762e+00 +1.194072250e-01 +4.169936676e+01 +4.071940722e+01
+ % restart: Indep. restart #46, because of tolx.
+1403477 +9.565576859e-01 +1.194072250e-01 +4.155655769e+01 +4.071940722e+01
+ % restart: Indep. restart #47, because of tolx.
+1432684 +3.053524189e-01 +1.194072250e-01 +4.090535242e+01 +4.071940722e+01
+ % restart: Indep. restart #48, because of tolx.
+1461666 +1.073574030e+00 +1.194072250e-01 +4.167357403e+01 +4.071940722e+01
+ % restart: Indep. restart #49, because of tolx.
+1491308 +7.371694710e-01 +1.194072250e-01 +4.133716947e+01 +4.071940722e+01
+ % restart: Indep. restart #50, because of tolx.
+1518625 +6.349694963e-01 +1.194072250e-01 +4.123496950e+01 +4.071940722e+01
+ % restart: Indep. restart #51, because of tolx.
+1546317 +1.067021806e+00 +1.194072250e-01 +4.166702181e+01 +4.071940722e+01
+ % restart: Indep. restart #52, because of tolx.
+1577534 +1.554976328e+00 +1.194072250e-01 +4.215497633e+01 +4.071940722e+01
+ % restart: Indep. restart #53, because of tolx.
+1605466 +1.289624383e+00 +1.194072250e-01 +4.188962438e+01 +4.071940722e+01
+ % restart: Indep. restart #54, because of tolx.
+1634103 +1.500497406e+00 +1.194072250e-01 +4.210049741e+01 +4.071940722e+01
+ % restart: Indep. restart #55, because of tolx.
+1663595 +1.242120567e+00 +1.194072250e-01 +4.184212057e+01 +4.071940722e+01
+ % restart: Indep. restart #56, because of tolx.
+1693882 +1.931019374e-01 +1.194072250e-01 +4.079310194e+01 +4.071940722e+01
+ % restart: Indep. restart #57, because of tolx.
+1730319 +1.361636876e+00 +1.194072250e-01 +4.196163688e+01 +4.071940722e+01
+ % restart: Indep. restart #58, because of tolx.
+1760306 +7.826692097e-01 +1.194072250e-01 +4.138266921e+01 +4.071940722e+01
+ % restart: Indep. restart #59, because of tolx.
+1791103 +5.596615077e-01 +1.194072250e-01 +4.115966151e+01 +4.071940722e+01
+ % restart: Indep. restart #60, because of tolx.
+1821885 +5.754193599e-01 +1.194072250e-01 +4.117541936e+01 +4.071940722e+01
+ % restart: Indep. restart #61, because of tolx.
+1854272 +4.311749652e-01 +1.194072250e-01 +4.103117497e+01 +4.071940722e+01
+ % restart: Indep. restart #62, because of tolx.
+1886164 +9.101399648e-01 +1.194072250e-01 +4.151013996e+01 +4.071940722e+01
+ % restart: Indep. restart #63, because of tolx.
+1913241 +5.311713231e-01 +1.194072250e-01 +4.113117132e+01 +4.071940722e+01
+ % restart: Indep. restart #64, because of tolx.
+1944683 +1.823137445e+00 +1.194072250e-01 +4.242313744e+01 +4.071940722e+01
+ % restart: Indep. restart #65, because of tolx.
+1974490 +8.537896299e-01 +1.194072250e-01 +4.145378963e+01 +4.071940722e+01
+ % function evaluation | noise-free fitness - Fopt (4.634000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolx.
+27932 +2.603891299e-01 +2.603891071e-01 +4.660038913e+01 +4.660038911e+01
+ % restart: Indep. restart #2, because of tolx.
+55804 +3.944496522e-02 +3.944494229e-02 +4.637944497e+01 +4.637944494e+01
+ % restart: Indep. restart #3, because of tolx.
+85146 +5.605393791e-02 +3.944494229e-02 +4.639605394e+01 +4.637944494e+01
+ % restart: Indep. restart #4, because of tolx.
+113468 +1.110368923e+00 +3.944494229e-02 +4.745036892e+01 +4.637944494e+01
+ % restart: Indep. restart #5, because of tolx.
+138115 +5.508889619e-01 +3.944494229e-02 +4.689088896e+01 +4.637944494e+01
+ % restart: Indep. restart #6, because of tolx.
+167697 +1.819320535e-01 +3.944494229e-02 +4.652193205e+01 +4.637944494e+01
+ % restart: Indep. restart #7, because of tolx.
+199649 +2.685057008e-01 +3.944494229e-02 +4.660850570e+01 +4.637944494e+01
+ % restart: Indep. restart #8, because of tolx.
+230896 +6.506996846e-01 +3.944494229e-02 +4.699069968e+01 +4.637944494e+01
+ % restart: Indep. restart #9, because of tolx.
+260523 +5.213168353e-01 +3.944494229e-02 +4.686131684e+01 +4.637944494e+01
+ % restart: Indep. restart #10, because of tolx.
+303155 +3.568895276e-01 +3.944494229e-02 +4.669688953e+01 +4.637944494e+01
+ % restart: Indep. restart #11, because of tolx.
+330187 +8.160368600e-01 +3.944494229e-02 +4.715603686e+01 +4.637944494e+01
+ % restart: Indep. restart #12, because of tolx.
+361824 +6.343958998e-01 +3.944494229e-02 +4.697439590e+01 +4.637944494e+01
+ % restart: Indep. restart #13, because of tolx.
+394076 +3.563587451e-01 +3.944494229e-02 +4.669635875e+01 +4.637944494e+01
+ % restart: Indep. restart #14, because of tolx.
+422533 +4.219493399e-01 +3.944494229e-02 +4.676194934e+01 +4.637944494e+01
+ % restart: Indep. restart #15, because of tolx.
+450030 +9.131756046e-02 +3.944494229e-02 +4.643131756e+01 +4.637944494e+01
+ % restart: Indep. restart #16, because of tolx.
+474437 +8.797666213e-01 +3.944494229e-02 +4.721976662e+01 +4.637944494e+01
+ % restart: Indep. restart #17, because of tolx.
+503644 +4.854913550e-01 +3.944494229e-02 +4.682549135e+01 +4.637944494e+01
+ % restart: Indep. restart #18, because of tolx.
+531096 +1.134986980e+00 +3.944494229e-02 +4.747498698e+01 +4.637944494e+01
+ % restart: Indep. restart #19, because of tolx.
+570443 +1.566412780e+00 +3.944494229e-02 +4.790641278e+01 +4.637944494e+01
+ % restart: Indep. restart #20, because of tolx.
+604675 +1.300117493e+00 +3.944494229e-02 +4.764011749e+01 +4.637944494e+01
+ % restart: Indep. restart #21, because of tolx.
+637197 +8.125879701e-01 +3.944494229e-02 +4.715258797e+01 +4.637944494e+01
+ % restart: Indep. restart #22, because of tolx.
+667634 +4.945747979e-01 +3.944494229e-02 +4.683457480e+01 +4.637944494e+01
+ % restart: Indep. restart #23, because of tolx.
+704716 +6.644056974e-01 +3.944494229e-02 +4.700440570e+01 +4.637944494e+01
+ % restart: Indep. restart #24, because of tolx.
+732393 +3.723073099e-01 +3.944494229e-02 +4.671230731e+01 +4.637944494e+01
+ % restart: Indep. restart #25, because of tolx.
+759305 +1.899325603e-01 +3.944494229e-02 +4.652993256e+01 +4.637944494e+01
+ % restart: Indep. restart #26, because of tolx.
+789802 +4.477480302e-01 +3.944494229e-02 +4.678774803e+01 +4.637944494e+01
+ % restart: Indep. restart #27, because of tolx.
+830649 +7.096310931e-01 +3.944494229e-02 +4.704963109e+01 +4.637944494e+01
+ % restart: Indep. restart #28, because of tolx.
+860891 +5.731539654e-01 +3.944494229e-02 +4.691315397e+01 +4.637944494e+01
+ % restart: Indep. restart #29, because of tolx.
+886858 +4.111089735e-01 +3.944494229e-02 +4.675110897e+01 +4.637944494e+01
+ % restart: Indep. restart #30, because of tolx.
+921990 +6.573990537e-01 +3.944494229e-02 +4.699739905e+01 +4.637944494e+01
+ % restart: Indep. restart #31, because of tolx.
+949457 +4.439514529e-01 +3.944494229e-02 +4.678395145e+01 +4.637944494e+01
+ % restart: Indep. restart #32, because of tolx.
+973774 +3.364550719e-01 +3.944494229e-02 +4.667645507e+01 +4.637944494e+01
+ % restart: Indep. restart #33, because of tolx.
+1000806 +1.284253127e-01 +3.944494229e-02 +4.646842531e+01 +4.637944494e+01
+ % restart: Indep. restart #34, because of tolx.
+1032848 +1.681301129e+00 +3.944494229e-02 +4.802130113e+01 +4.637944494e+01
+ % restart: Indep. restart #35, because of tolx.
+1057330 +3.147595021e-01 +3.944494229e-02 +4.665475950e+01 +4.637944494e+01
+ % restart: Indep. restart #36, because of tolx.
+1089267 +1.384219077e+00 +3.944494229e-02 +4.772421908e+01 +4.637944494e+01
+ % restart: Indep. restart #37, because of tolx.
+1115444 +7.837217520e-01 +3.944494229e-02 +4.712372175e+01 +4.637944494e+01
+ % restart: Indep. restart #38, because of tolx.
+1146406 +3.717296346e-01 +3.944494229e-02 +4.671172963e+01 +4.637944494e+01
+ % restart: Indep. restart #39, because of tolx.
+1175958 +1.862058744e-01 +3.944494229e-02 +4.652620587e+01 +4.637944494e+01
+ % restart: Indep. restart #40, because of tolx.
+1205165 +7.677553752e-01 +3.944494229e-02 +4.710775538e+01 +4.637944494e+01
+ % restart: Indep. restart #41, because of tolx.
+1243432 +7.248052959e-01 +3.944494229e-02 +4.706480530e+01 +4.637944494e+01
+ % restart: Indep. restart #42, because of tolx.
+1275459 +2.289446075e-01 +3.944494229e-02 +4.656894461e+01 +4.637944494e+01
+ % restart: Indep. restart #43, because of tolx.
+1308941 +3.363662327e-01 +3.944494229e-02 +4.667636623e+01 +4.637944494e+01
+ % restart: Indep. restart #44, because of tolx.
+1337623 +2.003781747e-01 +3.944494229e-02 +4.654037817e+01 +4.637944494e+01
+ % restart: Indep. restart #45, because of tolx.
+1368510 +4.067362088e-01 +3.944494229e-02 +4.674673621e+01 +4.637944494e+01
+ % restart: Indep. restart #46, because of tolx.
+1400222 +9.037661232e-01 +3.944494229e-02 +4.724376612e+01 +4.637944494e+01
+ % restart: Indep. restart #47, because of tolx.
+1428799 +2.960473210e-01 +3.944494229e-02 +4.663604732e+01 +4.637944494e+01
+ % restart: Indep. restart #48, because of tolx.
+1461576 +5.916866933e-02 +3.944494229e-02 +4.639916867e+01 +4.637944494e+01
+ % restart: Indep. restart #49, because of tolx.
+1489253 +2.173212451e-01 +3.944494229e-02 +4.655732125e+01 +4.637944494e+01
+ % restart: Indep. restart #50, because of tolx.
+1519150 +5.753672781e-01 +3.944494229e-02 +4.691536728e+01 +4.637944494e+01
+ % restart: Indep. restart #51, because of tolx.
+1550217 +2.208611949e-01 +3.944494229e-02 +4.656086119e+01 +4.637944494e+01
+ % restart: Indep. restart #52, because of tolx.
+1580954 +2.515647710e-01 +3.944494229e-02 +4.659156477e+01 +4.637944494e+01
+ % restart: Indep. restart #53, because of tolx.
+1615426 +4.788886897e-01 +3.944494229e-02 +4.681888869e+01 +4.637944494e+01
+ % restart: Indep. restart #54, because of tolx.
+1647528 +9.772196233e-01 +3.944494229e-02 +4.731721962e+01 +4.637944494e+01
+ % restart: Indep. restart #55, because of tolx.
+1678175 +4.708857076e-01 +3.944494229e-02 +4.681088571e+01 +4.637944494e+01
+ % restart: Indep. restart #56, because of tolx.
+1716817 +6.152733267e-01 +3.944494229e-02 +4.695527333e+01 +4.637944494e+01
+ % restart: Indep. restart #57, because of tolx.
+1750689 +3.749577428e-01 +3.944494229e-02 +4.671495774e+01 +4.637944494e+01
+ % restart: Indep. restart #58, because of tolx.
+1789871 +6.491905818e-01 +3.944494229e-02 +4.698919058e+01 +4.637944494e+01
+ % restart: Indep. restart #59, because of tolx.
+1821043 +2.378923634e+00 +3.944494229e-02 +4.871892363e+01 +4.637944494e+01
+ % restart: Indep. restart #60, because of tolx.
+1853340 +8.497763635e-01 +3.944494229e-02 +4.718977636e+01 +4.637944494e+01
+ % restart: Indep. restart #61, because of tolx.
+1886672 +4.524094677e-01 +3.944494229e-02 +4.679240947e+01 +4.637944494e+01
+ % restart: Indep. restart #62, because of tolx.
+1918264 +8.100029127e-01 +3.944494229e-02 +4.715000291e+01 +4.637944494e+01
+ % restart: Indep. restart #63, because of tolx.
+1950951 +2.099821068e-01 +3.944494229e-02 +4.654998211e+01 +4.637944494e+01
+ % restart: Indep. restart #64, because of tolx.
+1977578 +9.271718027e-01 +3.944494229e-02 +4.726717180e+01 +4.637944494e+01
+ % function evaluation | noise-free fitness - Fopt (-2.410900000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolx.
+32297 +1.322060409e+00 +1.322060405e+00 -2.397679396e+02 -2.397679396e+02
+ % restart: Indep. restart #2, because of tolx.
+60004 +1.116475062e+00 +1.116475062e+00 -2.399735249e+02 -2.399735249e+02
+ % restart: Indep. restart #3, because of tolx.
+90171 +3.494970621e-01 +3.494970219e-01 -2.407405029e+02 -2.407405030e+02
+ % restart: Indep. restart #4, because of tolx.
+119363 +5.586515412e-01 +3.494970219e-01 -2.405313485e+02 -2.407405030e+02
+ % restart: Indep. restart #5, because of tolx.
+146110 +9.056975375e-01 +3.494970219e-01 -2.401843025e+02 -2.407405030e+02
+ % restart: Indep. restart #6, because of tolx.
+177207 +3.261978914e-01 +3.261978116e-01 -2.407638021e+02 -2.407638022e+02
+ % restart: Indep. restart #7, because of tolx.
+209984 +7.281124323e-01 +3.261978116e-01 -2.403618876e+02 -2.407638022e+02
+ % restart: Indep. restart #8, because of tolx.
+241891 +5.640027016e-01 +3.261978116e-01 -2.405259973e+02 -2.407638022e+02
+ % restart: Indep. restart #9, because of tolx.
+281043 +1.135127214e+00 +3.261978116e-01 -2.399548728e+02 -2.407638022e+02
+ % restart: Indep. restart #10, because of tolx.
+314495 +3.912072910e-01 +3.261978116e-01 -2.406987927e+02 -2.407638022e+02
+ % restart: Indep. restart #11, because of tolx.
+354907 +1.226827293e+00 +3.261978116e-01 -2.398631727e+02 -2.407638022e+02
+ % restart: Indep. restart #12, because of tolx.
+389019 +1.507812038e-01 +1.507811952e-01 -2.409392188e+02 -2.409392188e+02
+ % restart: Indep. restart #13, because of tolx.
+426671 +2.838244321e+00 +1.507811952e-01 -2.382517557e+02 -2.409392188e+02
+ % restart: Indep. restart #14, because of tolx.
+453418 +9.131784621e-01 +1.507811952e-01 -2.401768215e+02 -2.409392188e+02
+ % restart: Indep. restart #15, because of tolx.
+485760 +7.267378029e-01 +1.507811952e-01 -2.403632622e+02 -2.409392188e+02
+ % restart: Indep. restart #16, because of tolx.
+514187 +1.398360979e+00 +1.507811952e-01 -2.396916390e+02 -2.409392188e+02
+ % restart: Indep. restart #17, because of tolx.
+543634 +3.870552970e-01 +1.507811952e-01 -2.407029447e+02 -2.409392188e+02
+ % restart: Indep. restart #18, because of tolx.
+571371 +7.544382377e-01 +1.507811952e-01 -2.403355618e+02 -2.409392188e+02
+ % restart: Indep. restart #19, because of tolx.
+596318 +6.462655328e-01 +1.507811952e-01 -2.404437345e+02 -2.409392188e+02
+ % restart: Indep. restart #20, because of tolx.
+628210 +1.094562673e+00 +1.507811952e-01 -2.399954373e+02 -2.409392188e+02
+ % restart: Indep. restart #21, because of tolx.
+672717 +8.099738544e-01 +1.507811952e-01 -2.402800261e+02 -2.409392188e+02
+ % restart: Indep. restart #22, because of tolx.
+710444 +5.663117266e-01 +1.507811952e-01 -2.405236883e+02 -2.409392188e+02
+ % restart: Indep. restart #23, because of tolx.
+745186 +7.938553218e-01 +1.507811952e-01 -2.402961447e+02 -2.409392188e+02
+ % restart: Indep. restart #24, because of tolx.
+774138 +1.484741130e+00 +1.507811952e-01 -2.396052589e+02 -2.409392188e+02
+ % restart: Indep. restart #25, because of tolx.
+804380 +9.006341028e-01 +1.507811952e-01 -2.401893659e+02 -2.409392188e+02
+ % restart: Indep. restart #26, because of tolx.
+835177 +7.303919038e-01 +1.507811952e-01 -2.403596081e+02 -2.409392188e+02
+ % restart: Indep. restart #27, because of tolx.
+864249 +1.527135514e+00 +1.507811952e-01 -2.395628645e+02 -2.409392188e+02
+ % restart: Indep. restart #28, because of tolx.
+891836 +7.710627390e-01 +1.507811952e-01 -2.403189373e+02 -2.409392188e+02
+ % restart: Indep. restart #29, because of tolx.
+925498 +3.078813213e+00 +1.507811952e-01 -2.380111868e+02 -2.409392188e+02
+ % restart: Indep. restart #30, because of tolx.
+956460 +3.130805896e-01 +1.507811952e-01 -2.407769194e+02 -2.409392188e+02
+ % restart: Indep. restart #31, because of tolx.
+988757 +2.983112373e+00 +1.507811952e-01 -2.381068876e+02 -2.409392188e+02
+ % restart: Indep. restart #32, because of tolx.
+1018189 +3.501609385e-01 +1.507811952e-01 -2.407398391e+02 -2.409392188e+02
+ % restart: Indep. restart #33, because of tolx.
+1042041 +4.765732393e-01 +1.507811952e-01 -2.406134268e+02 -2.409392188e+02
+ % restart: Indep. restart #34, because of tolx.
+1069013 +5.854785187e-01 +1.507811952e-01 -2.405045215e+02 -2.409392188e+02
+ % restart: Indep. restart #35, because of tolx.
+1101955 +1.888168274e+00 +1.507811952e-01 -2.392018317e+02 -2.409392188e+02
+ % restart: Indep. restart #36, because of tolx.
+1132077 +1.729542612e+00 +1.507811952e-01 -2.393604574e+02 -2.409392188e+02
+ % restart: Indep. restart #37, because of tolx.
+1160534 +1.346496467e+00 +1.507811952e-01 -2.397435035e+02 -2.409392188e+02
+ % restart: Indep. restart #38, because of tolx.
+1190221 +9.167601866e-01 +1.507811952e-01 -2.401732398e+02 -2.409392188e+02
+ % restart: Indep. restart #39, because of tolx.
+1219578 +9.810930367e-01 +1.507811952e-01 -2.401089070e+02 -2.409392188e+02
+ % restart: Indep. restart #40, because of tolx.
+1249130 +1.316871388e+00 +1.507811952e-01 -2.397731286e+02 -2.409392188e+02
+ % restart: Indep. restart #41, because of tolx.
+1277242 +1.478676203e+00 +1.507811952e-01 -2.396113238e+02 -2.409392188e+02
+ % restart: Indep. restart #42, because of tolx.
+1303779 +3.680138456e-01 +1.507811952e-01 -2.407219862e+02 -2.409392188e+02
+ % restart: Indep. restart #43, because of tolx.
+1336046 +4.844767007e-01 +1.507811952e-01 -2.406055233e+02 -2.409392188e+02
+ % restart: Indep. restart #44, because of tolx.
+1364878 +2.891509319e-01 +1.507811952e-01 -2.408008491e+02 -2.409392188e+02
+ % restart: Indep. restart #45, because of tolx.
+1394325 +1.823040959e+00 +1.507811952e-01 -2.392669590e+02 -2.409392188e+02
+ % restart: Indep. restart #46, because of tolx.
+1427147 +5.862580668e-01 +1.507811952e-01 -2.405037419e+02 -2.409392188e+02
+ % restart: Indep. restart #47, because of tolx.
+1461064 +5.001657149e-01 +1.507811952e-01 -2.405898343e+02 -2.409392188e+02
+ % restart: Indep. restart #48, because of tolx.
+1491846 +1.877252424e+00 +1.507811952e-01 -2.392127476e+02 -2.409392188e+02
+ % restart: Indep. restart #49, because of tolx.
+1521683 +2.543640584e-01 +1.507811952e-01 -2.408356359e+02 -2.409392188e+02
+ % restart: Indep. restart #50, because of tolx.
+1550305 +2.472034432e+00 +1.507811952e-01 -2.386179656e+02 -2.409392188e+02
+ % restart: Indep. restart #51, because of tolx.
+1577682 +5.645191479e-01 +1.507811952e-01 -2.405254809e+02 -2.409392188e+02
+ % restart: Indep. restart #52, because of tolx.
+1606379 +7.663206345e-01 +1.507811952e-01 -2.403236794e+02 -2.409392188e+02
+ % restart: Indep. restart #53, because of tolx.
+1646431 +4.803325253e-01 +1.507811952e-01 -2.406096675e+02 -2.409392188e+02
+ % restart: Indep. restart #54, because of tolx.
+1676673 +9.153037070e-01 +1.507811952e-01 -2.401746963e+02 -2.409392188e+02
+ % restart: Indep. restart #55, because of tolx.
+1702355 +1.066179462e+00 +1.507811952e-01 -2.400238205e+02 -2.409392188e+02
+ % restart: Indep. restart #56, because of tolx.
+1728982 +3.759349197e-01 +1.507811952e-01 -2.407140651e+02 -2.409392188e+02
+ % restart: Indep. restart #57, because of tolx.
+1760364 +5.153561187e-01 +1.507811952e-01 -2.405746439e+02 -2.409392188e+02
+ % restart: Indep. restart #58, because of tolx.
+1786856 +1.008618225e+00 +1.507811952e-01 -2.400813818e+02 -2.409392188e+02
+ % restart: Indep. restart #59, because of tolx.
+1818943 +2.392434380e+00 +1.507811952e-01 -2.386975656e+02 -2.409392188e+02
+ % restart: Indep. restart #60, because of tolx.
+1849080 +5.910558408e-01 +1.507811952e-01 -2.404989442e+02 -2.409392188e+02
+ % restart: Indep. restart #61, because of tolx.
+1878932 +6.736386221e-01 +1.507811952e-01 -2.404163614e+02 -2.409392188e+02
+ % restart: Indep. restart #62, because of tolx.
+1910359 +1.189165909e+00 +1.507811952e-01 -2.399008341e+02 -2.409392188e+02
+ % restart: Indep. restart #63, because of tolx.
+1938081 +2.323170064e-01 +1.507811952e-01 -2.408576830e+02 -2.409392188e+02
+ % restart: Indep. restart #64, because of tolx.
+1969028 +7.827806356e-01 +1.507811952e-01 -2.403072194e+02 -2.409392188e+02
+ % restart: Indep. restart #65, because of tolx.
+1997860 +2.114868526e-01 +1.507811952e-01 -2.408785131e+02 -2.409392188e+02
+ % function evaluation | noise-free fitness - Fopt (-1.668800000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolx.
+29492 +8.632522502e-01 +8.632522468e-01 -1.660167477e+02 -1.660167478e+02
+ % restart: Indep. restart #2, because of tolx.
+58999 +6.913071849e-01 +6.913071620e-01 -1.661886928e+02 -1.661886928e+02
+ % restart: Indep. restart #3, because of tolx.
+95976 +4.304917528e-01 +4.304917528e-01 -1.664495082e+02 -1.664495082e+02
+ % restart: Indep. restart #4, because of tolx.
+124358 +5.144763105e-01 +4.304917528e-01 -1.663655237e+02 -1.664495082e+02
+ % restart: Indep. restart #5, because of tolx.
+156325 +1.478340567e+00 +4.304917528e-01 -1.654016594e+02 -1.664495082e+02
+ % restart: Indep. restart #6, because of tolx.
+181827 +8.953355303e-01 +4.304917528e-01 -1.659846645e+02 -1.664495082e+02
+ % restart: Indep. restart #7, because of tolx.
+212054 +4.944683254e-01 +4.304917528e-01 -1.663855317e+02 -1.664495082e+02
+ % restart: Indep. restart #8, because of tolx.
+241216 +2.061464764e-01 +2.061464764e-01 -1.666738535e+02 -1.666738535e+02
+ % restart: Indep. restart #9, because of tolx.
+268473 +1.295794138e-01 +1.295794138e-01 -1.667504206e+02 -1.667504206e+02
+ % restart: Indep. restart #10, because of tolx.
+300560 +7.923672136e-01 +1.295794138e-01 -1.660876328e+02 -1.667504206e+02
+ % restart: Indep. restart #11, because of tolx.
+327052 +1.334248374e-01 +1.295794138e-01 -1.667465752e+02 -1.667504206e+02
+ % restart: Indep. restart #12, because of tolx.
+356229 +1.244039367e+00 +1.295794138e-01 -1.656359606e+02 -1.667504206e+02
+ % restart: Indep. restart #13, because of tolx.
+390251 +8.283962169e-01 +1.295794138e-01 -1.660516038e+02 -1.667504206e+02
+ % restart: Indep. restart #14, because of tolx.
+419068 +1.121360353e-01 +1.121360353e-01 -1.667678640e+02 -1.667678640e+02
+ % restart: Indep. restart #15, because of tolx.
+447750 +2.291556648e+00 +1.121360353e-01 -1.645884434e+02 -1.667678640e+02
+ % restart: Indep. restart #16, because of tolx.
+475022 +4.164964932e-01 +1.121360353e-01 -1.664635035e+02 -1.667678640e+02
+ % restart: Indep. restart #17, because of tolx.
+501214 +6.006724146e-01 +1.121360353e-01 -1.662793276e+02 -1.667678640e+02
+ % restart: Indep. restart #18, because of tolx.
+537126 +7.174594121e-01 +1.121360353e-01 -1.661625406e+02 -1.667678640e+02
+ % restart: Indep. restart #19, because of tolx.
+568238 +5.785548656e-01 +1.121360353e-01 -1.663014451e+02 -1.667678640e+02
+ % restart: Indep. restart #20, because of tolx.
+601045 +3.347048103e-01 +1.121360353e-01 -1.665452952e+02 -1.667678640e+02
+ % restart: Indep. restart #21, because of tolx.
+633207 +8.259115589e-01 +1.121360353e-01 -1.660540884e+02 -1.667678640e+02
+ % restart: Indep. restart #22, because of tolx.
+667394 +1.507279571e+00 +1.121360353e-01 -1.653727204e+02 -1.667678640e+02
+ % restart: Indep. restart #23, because of tolx.
+696466 +8.583290976e-01 +1.121360353e-01 -1.660216709e+02 -1.667678640e+02
+ % restart: Indep. restart #24, because of tolx.
+721443 +1.807247480e+00 +1.121360353e-01 -1.650727525e+02 -1.667678640e+02
+ % restart: Indep. restart #25, because of tolx.
+756260 +1.062858814e+00 +1.121360353e-01 -1.658171412e+02 -1.667678640e+02
+ % restart: Indep. restart #26, because of tolx.
+784357 +6.378163133e-01 +1.121360353e-01 -1.662421837e+02 -1.667678640e+02
+ % restart: Indep. restart #27, because of tolx.
+812784 +5.044622238e-01 +1.121360353e-01 -1.663755378e+02 -1.667678640e+02
+ % restart: Indep. restart #28, because of tolx.
+846611 +9.032492362e-01 +1.121360353e-01 -1.659767508e+02 -1.667678640e+02
+ % restart: Indep. restart #29, because of tolx.
+874678 +2.223577750e-01 +1.121360353e-01 -1.666576422e+02 -1.667678640e+02
+ % restart: Indep. restart #30, because of tolx.
+904830 +7.251269981e-01 +1.121360353e-01 -1.661548730e+02 -1.667678640e+02
+ % restart: Indep. restart #31, because of tolx.
+932852 +3.974727620e-01 +1.121360353e-01 -1.664825272e+02 -1.667678640e+02
+ % restart: Indep. restart #32, because of tolx.
+962149 +3.100018913e-01 +1.121360353e-01 -1.665699981e+02 -1.667678640e+02
+ % restart: Indep. restart #33, because of tolx.
+989226 +4.929207487e-01 +1.121360353e-01 -1.663870793e+02 -1.667678640e+02
+ % restart: Indep. restart #34, because of tolx.
+1014638 +1.002666588e+00 +1.121360353e-01 -1.658773334e+02 -1.667678640e+02
+ % restart: Indep. restart #35, because of tolx.
+1049245 +6.983105786e-01 +1.121360353e-01 -1.661816894e+02 -1.667678640e+02
+ % restart: Indep. restart #36, because of tolx.
+1081347 +3.267762511e+00 +1.121360353e-01 -1.636122375e+02 -1.667678640e+02
+ % restart: Indep. restart #37, because of tolx.
+1110659 +2.165390061e-01 +1.121360353e-01 -1.666634610e+02 -1.667678640e+02
+ % restart: Indep. restart #38, because of tolx.
+1140766 +8.387921264e-01 +1.121360353e-01 -1.660412079e+02 -1.667678640e+02
+ % restart: Indep. restart #39, because of tolx.
+1173273 +1.050112735e+00 +1.121360353e-01 -1.658298873e+02 -1.667678640e+02
+ % restart: Indep. restart #40, because of tolx.
+1213085 +8.317408384e-01 +1.121360353e-01 -1.660482592e+02 -1.667678640e+02
+ % restart: Indep. restart #41, because of tolx.
+1243357 +5.171161107e-01 +1.121360353e-01 -1.663628839e+02 -1.667678640e+02
+ % restart: Indep. restart #42, because of tolx.
+1279269 +3.398915907e-01 +1.121360353e-01 -1.665401084e+02 -1.667678640e+02
+ % restart: Indep. restart #43, because of tolx.
+1309346 +2.969966811e-01 +1.121360353e-01 -1.665830033e+02 -1.667678640e+02
+ % restart: Indep. restart #44, because of tolx.
+1346383 +6.838156426e-01 +1.121360353e-01 -1.661961844e+02 -1.667678640e+02
+ % restart: Indep. restart #45, because of tolx.
+1382820 +8.608737223e-01 +1.121360353e-01 -1.660191263e+02 -1.667678640e+02
+ % restart: Indep. restart #46, because of tolx.
+1413782 +5.068729364e-01 +1.121360353e-01 -1.663731271e+02 -1.667678640e+02
+ % restart: Indep. restart #47, because of tolx.
+1438789 +8.931191364e-01 +1.121360353e-01 -1.659868809e+02 -1.667678640e+02
+ % restart: Indep. restart #48, because of tolx.
+1468071 +9.433351358e-01 +1.121360353e-01 -1.659366649e+02 -1.667678640e+02
+ % restart: Indep. restart #49, because of tolx.
+1500863 +9.475432123e-01 +1.121360353e-01 -1.659324568e+02 -1.667678640e+02
+ % restart: Indep. restart #50, because of tolx.
+1526425 +5.304841789e-01 +1.121360353e-01 -1.663495158e+02 -1.667678640e+02
+ % restart: Indep. restart #51, because of tolx.
+1562592 +2.886284095e-01 +1.121360353e-01 -1.665913716e+02 -1.667678640e+02
+ % restart: Indep. restart #52, because of tolx.
+1591154 +5.951430885e-01 +1.121360353e-01 -1.662848569e+02 -1.667678640e+02
+ % restart: Indep. restart #53, because of tolx.
+1625806 +9.713383507e-01 +1.121360353e-01 -1.659086616e+02 -1.667678640e+02
+ % restart: Indep. restart #54, because of tolx.
+1655223 +2.091805043e+00 +1.121360353e-01 -1.647881950e+02 -1.667678640e+02
+ % restart: Indep. restart #55, because of tolx.
+1685900 +1.141835140e+00 +1.121360353e-01 -1.657381649e+02 -1.667678640e+02
+ % restart: Indep. restart #56, because of tolx.
+1711822 +4.316546037e-01 +1.121360353e-01 -1.664483454e+02 -1.667678640e+02
+ % restart: Indep. restart #57, because of tolx.
+1738149 +6.883655061e-02 +6.883652410e-02 -1.668111634e+02 -1.668111635e+02
+ % restart: Indep. restart #58, because of tolx.
+1772996 +6.460147766e-01 +6.883652410e-02 -1.662339852e+02 -1.668111635e+02
+ % restart: Indep. restart #59, because of tolx.
+1807468 +1.692554404e+00 +6.883652410e-02 -1.651874456e+02 -1.668111635e+02
+ % restart: Indep. restart #60, because of tolx.
+1837230 +5.529825648e-01 +6.883652410e-02 -1.663270174e+02 -1.668111635e+02
+ % restart: Indep. restart #61, because of tolx.
+1867442 +5.668448898e-01 +6.883652410e-02 -1.663131551e+02 -1.668111635e+02
+ % restart: Indep. restart #62, because of tolx.
+1895389 +8.879306452e-01 +6.883652410e-02 -1.659920694e+02 -1.668111635e+02
+ % restart: Indep. restart #63, because of tolx.
+1920621 +9.408103545e-01 +6.883652410e-02 -1.659391896e+02 -1.668111635e+02
+ % restart: Indep. restart #64, because of tolx.
+1948178 +1.001704795e+00 +6.883652410e-02 -1.658782952e+02 -1.668111635e+02
+ % restart: Indep. restart #65, because of tolx.
+1975555 +4.246847963e-01 +6.883652410e-02 -1.664553152e+02 -1.668111635e+02
+ % function evaluation | noise-free fitness - Fopt (-3.464100000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolx.
+37097 +1.031578183e+00 +1.031578180e+00 -3.453784218e+02 -3.453784218e+02
+ % restart: Indep. restart #2, because of tolx.
+67204 +7.212171401e-01 +7.212171401e-01 -3.456887829e+02 -3.456887829e+02
+ % restart: Indep. restart #3, because of tolx.
+101931 +1.484700602e+00 +7.212171401e-01 -3.449252994e+02 -3.456887829e+02
+ % restart: Indep. restart #4, because of tolx.
+132053 +9.484254144e-01 +7.212171401e-01 -3.454615746e+02 -3.456887829e+02
+ % restart: Indep. restart #5, because of tolx.
+163975 +4.300058739e-01 +4.300058739e-01 -3.459799941e+02 -3.459799941e+02
+ % restart: Indep. restart #6, because of tolx.
+193752 +5.008869328e-01 +4.300058739e-01 -3.459091131e+02 -3.459799941e+02
+ % restart: Indep. restart #7, because of tolx.
+222314 +8.936887613e-02 +8.936887613e-02 -3.463206311e+02 -3.463206311e+02
+ % restart: Indep. restart #8, because of tolx.
+254581 +1.416545027e+00 +8.936887613e-02 -3.449934550e+02 -3.463206311e+02
+ % restart: Indep. restart #9, because of tolx.
+286158 +2.095758918e-01 +8.936887613e-02 -3.462004241e+02 -3.463206311e+02
+ % restart: Indep. restart #10, because of tolx.
+314345 +3.944087392e-02 +3.944087392e-02 -3.463705591e+02 -3.463705591e+02
+ % restart: Indep. restart #11, because of tolx.
+344182 +4.769412367e-01 +3.944087392e-02 -3.459330588e+02 -3.463705591e+02
+ % restart: Indep. restart #12, because of tolx.
+381174 +1.747343638e+00 +3.944087392e-02 -3.446626564e+02 -3.463705591e+02
+ % restart: Indep. restart #13, because of tolx.
+408071 +4.269921221e-01 +3.944087392e-02 -3.459830079e+02 -3.463705591e+02
+ % restart: Indep. restart #14, because of tolx.
+438838 +7.674190945e-01 +3.944087392e-02 -3.456425809e+02 -3.463705591e+02
+ % restart: Indep. restart #15, because of tolx.
+472530 +6.765224900e-01 +3.944087392e-02 -3.457334775e+02 -3.463705591e+02
+ % restart: Indep. restart #16, because of tolx.
+504212 +4.496304941e-01 +3.944087392e-02 -3.459603695e+02 -3.463705591e+02
+ % restart: Indep. restart #17, because of tolx.
+531349 +7.300725289e-01 +3.944087392e-02 -3.456799275e+02 -3.463705591e+02
+ % restart: Indep. restart #18, because of tolx.
+564561 +8.920900651e-01 +3.944087392e-02 -3.455179099e+02 -3.463705591e+02
+ % restart: Indep. restart #19, because of tolx.
+595358 +1.986832383e-01 +3.944087392e-02 -3.462113168e+02 -3.463705591e+02
+ % restart: Indep. restart #20, because of tolx.
+629995 +9.247994912e-01 +3.944087392e-02 -3.454852005e+02 -3.463705591e+02
+ % restart: Indep. restart #21, because of tolx.
+672957 +2.843182954e-01 +3.944087392e-02 -3.461256817e+02 -3.463705591e+02
+ % restart: Indep. restart #22, because of tolx.
+698894 +9.683129502e-01 +3.944087392e-02 -3.454416870e+02 -3.463705591e+02
+ % restart: Indep. restart #23, because of tolx.
+730861 +8.137835621e-01 +3.944087392e-02 -3.455962164e+02 -3.463705591e+02
+ % restart: Indep. restart #24, because of tolx.
+759123 +1.057267860e+00 +3.944087392e-02 -3.453527321e+02 -3.463705591e+02
+ % restart: Indep. restart #25, because of tolx.
+794510 +2.960858698e-01 +3.944087392e-02 -3.461139141e+02 -3.463705591e+02
+ % restart: Indep. restart #26, because of tolx.
+826297 +5.927659337e-01 +3.944087392e-02 -3.458172341e+02 -3.463705591e+02
+ % restart: Indep. restart #27, because of tolx.
+853689 +6.909110158e-01 +3.944087392e-02 -3.457190890e+02 -3.463705591e+02
+ % restart: Indep. restart #28, because of tolx.
+882131 +4.107792308e-01 +3.944087392e-02 -3.459992208e+02 -3.463705591e+02
+ % restart: Indep. restart #29, because of tolx.
+919543 +1.098046277e+00 +3.944087392e-02 -3.453119537e+02 -3.463705591e+02
+ % restart: Indep. restart #30, because of tolx.
+945750 +7.579784560e-01 +3.944087392e-02 -3.456520215e+02 -3.463705591e+02
+ % restart: Indep. restart #31, because of tolx.
+978932 +2.795019936e-01 +3.944087392e-02 -3.461304980e+02 -3.463705591e+02
+ % restart: Indep. restart #32, because of tolx.
+1019674 +4.133989552e-01 +3.944087392e-02 -3.459966010e+02 -3.463705591e+02
+ % restart: Indep. restart #33, because of tolx.
+1052976 +3.694646446e-01 +3.944087392e-02 -3.460405354e+02 -3.463705591e+02
+ % restart: Indep. restart #34, because of tolx.
+1079018 +3.463969161e-01 +3.944087392e-02 -3.460636031e+02 -3.463705591e+02
+ % restart: Indep. restart #35, because of tolx.
+1109035 +5.203559458e-01 +3.944087392e-02 -3.458896441e+02 -3.463705591e+02
+ % restart: Indep. restart #36, because of tolx.
+1137822 +4.931379265e-01 +3.944087392e-02 -3.459168621e+02 -3.463705591e+02
+ % restart: Indep. restart #37, because of tolx.
+1166294 +1.095691346e+00 +3.944087392e-02 -3.453143087e+02 -3.463705591e+02
+ % restart: Indep. restart #38, because of tolx.
+1197781 +4.000796354e-01 +3.944087392e-02 -3.460099204e+02 -3.463705591e+02
+ % restart: Indep. restart #39, because of tolx.
+1230513 +1.175072711e+00 +3.944087392e-02 -3.452349273e+02 -3.463705591e+02
+ % restart: Indep. restart #40, because of tolx.
+1271570 +5.406703163e-01 +3.944087392e-02 -3.458693297e+02 -3.463705591e+02
+ % restart: Indep. restart #41, because of tolx.
+1300762 +6.787015941e-01 +3.944087392e-02 -3.457312984e+02 -3.463705591e+02
+ % restart: Indep. restart #42, because of tolx.
+1334004 +1.940251414e-01 +3.944087392e-02 -3.462159749e+02 -3.463705591e+02
+ % restart: Indep. restart #43, because of tolx.
+1363826 +3.005412558e-01 +3.944087392e-02 -3.461094587e+02 -3.463705591e+02
+ % restart: Indep. restart #44, because of tolx.
+1390648 +9.862691217e-01 +3.944087392e-02 -3.454237309e+02 -3.463705591e+02
+ % restart: Indep. restart #45, because of tolx.
+1418925 +2.208202023e-01 +3.944087392e-02 -3.461891798e+02 -3.463705591e+02
+ % restart: Indep. restart #46, because of tolx.
+1449767 +4.505211632e-01 +3.944087392e-02 -3.459594788e+02 -3.463705591e+02
+ % restart: Indep. restart #47, because of tolx.
+1480819 +5.346725619e-01 +3.944087392e-02 -3.458753274e+02 -3.463705591e+02
+ % restart: Indep. restart #48, because of tolx.
+1510491 +2.979943596e-01 +3.944087392e-02 -3.461120056e+02 -3.463705591e+02
+ % restart: Indep. restart #49, because of tolx.
+1537478 +1.008786209e+00 +3.944087392e-02 -3.454012138e+02 -3.463705591e+02
+ % restart: Indep. restart #50, because of tolx.
+1567720 +5.331938706e-01 +3.944087392e-02 -3.458768061e+02 -3.463705591e+02
+ % restart: Indep. restart #51, because of tolx.
+1599597 +3.584506733e+00 +3.944087392e-02 -3.428254933e+02 -3.463705591e+02
+ % restart: Indep. restart #52, because of tolx.
+1629329 +1.449936139e+00 +3.944087392e-02 -3.449600639e+02 -3.463705591e+02
+ % restart: Indep. restart #53, because of tolx.
+1658356 +2.091581983e-01 +3.944087392e-02 -3.462008418e+02 -3.463705591e+02
+ % restart: Indep. restart #54, because of tolx.
+1693578 +9.977512399e-01 +3.944087392e-02 -3.454122488e+02 -3.463705591e+02
+ % restart: Indep. restart #55, because of tolx.
+1723265 +6.858592928e-01 +3.944087392e-02 -3.457241407e+02 -3.463705591e+02
+ % restart: Indep. restart #56, because of tolx.
+1754227 +4.656017083e-01 +3.944087392e-02 -3.459443983e+02 -3.463705591e+02
+ % restart: Indep. restart #57, because of tolx.
+1784094 +4.977414246e-01 +3.944087392e-02 -3.459122586e+02 -3.463705591e+02
+ % restart: Indep. restart #58, because of tolx.
+1811171 +5.213428124e-01 +3.944087392e-02 -3.458886572e+02 -3.463705591e+02
+ % restart: Indep. restart #59, because of tolx.
+1839898 +1.078662511e+00 +3.944087392e-02 -3.453313375e+02 -3.463705591e+02
+ % restart: Indep. restart #60, because of tolx.
+1871955 +1.115819423e+00 +3.944087392e-02 -3.452941806e+02 -3.463705591e+02
+ % restart: Indep. restart #61, because of tolx.
+1896512 +5.492302029e-01 +3.944087392e-02 -3.458607698e+02 -3.463705591e+02
+ % restart: Indep. restart #62, because of tolx.
+1924144 +2.617998542e-01 +3.944087392e-02 -3.461482001e+02 -3.463705591e+02
+ % restart: Indep. restart #63, because of tolx.
+1950111 +4.242312029e-01 +3.944087392e-02 -3.459857688e+02 -3.463705591e+02
+ % restart: Indep. restart #64, because of tolx.
+1973303 +1.814829186e-01 +3.944087392e-02 -3.462285171e+02 -3.463705591e+02
+ % function evaluation | noise-free fitness - Fopt (6.618000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolx.
+29387 +1.269159584e+00 +1.269159584e+00 +6.744915958e+01 +6.744915958e+01
+ % restart: Indep. restart #2, because of tolx.
+57064 +1.486851633e+00 +1.269159584e+00 +6.766685163e+01 +6.744915958e+01
+ % restart: Indep. restart #3, because of tolx.
+90606 +2.695400722e-01 +2.695400722e-01 +6.644954007e+01 +6.644954007e+01
+ % restart: Indep. restart #4, because of tolx.
+156038 +1.640873405e+00 +2.695400722e-01 +6.782087341e+01 +6.644954007e+01
+ % restart: Indep. restart #5, because of tolx.
+190855 +1.629435878e+00 +2.695400722e-01 +6.780943588e+01 +6.644954007e+01
+ % restart: Indep. restart #6, because of tolx.
+218952 +1.677127261e+00 +2.695400722e-01 +6.785712726e+01 +6.644954007e+01
+ % restart: Indep. restart #7, because of tolx.
+247484 +6.460076815e-01 +2.695400722e-01 +6.682600768e+01 +6.644954007e+01
+ % restart: Indep. restart #8, because of tolx.
+275941 +1.507846810e+00 +2.695400722e-01 +6.768784681e+01 +6.644954007e+01
+ % restart: Indep. restart #9, because of tolx.
+305733 +9.195110313e-01 +2.695400722e-01 +6.709951103e+01 +6.644954007e+01
+ % restart: Indep. restart #10, because of tolx.
+332510 +8.154204161e-01 +2.695400722e-01 +6.699542042e+01 +6.644954007e+01
+ % restart: Indep. restart #11, because of tolx.
+358687 +5.928004245e-01 +2.695400722e-01 +6.677280042e+01 +6.644954007e+01
+ % restart: Indep. restart #12, because of tolx.
+388434 +1.276340312e-01 +1.276340312e-01 +6.630763403e+01 +6.630763403e+01
+ % restart: Indep. restart #13, because of tolx.
+421376 +5.838253978e-01 +1.276340312e-01 +6.676382540e+01 +6.630763403e+01
+ % restart: Indep. restart #14, because of tolx.
+452668 +7.743814107e-01 +1.276340312e-01 +6.695438141e+01 +6.630763403e+01
+ % restart: Indep. restart #15, because of tolx.
+485250 +6.950034733e-01 +1.276340312e-01 +6.687500347e+01 +6.630763403e+01
+ % restart: Indep. restart #16, because of tolx.
+516752 +1.192372160e+00 +1.276340312e-01 +6.737237216e+01 +6.630763403e+01
+ % restart: Indep. restart #17, because of tolx.
+547279 +3.577856978e-01 +1.276340312e-01 +6.653778570e+01 +6.630763403e+01
+ % restart: Indep. restart #18, because of tolx.
+577491 +8.680282447e-01 +1.276340312e-01 +6.704802824e+01 +6.630763403e+01
+ % restart: Indep. restart #19, because of tolx.
+610028 +1.067540210e+00 +1.276340312e-01 +6.724754021e+01 +6.630763403e+01
+ % restart: Indep. restart #20, because of tolx.
+639370 +5.920313404e-01 +1.276340312e-01 +6.677203134e+01 +6.630763403e+01
+ % restart: Indep. restart #21, because of tolx.
+664662 +2.997161810e-01 +1.276340312e-01 +6.647971618e+01 +6.630763403e+01
+ % restart: Indep. restart #22, because of tolx.
+691979 +6.555612385e-01 +1.276340312e-01 +6.683556124e+01 +6.630763403e+01
+ % restart: Indep. restart #23, because of tolx.
+719536 +1.105282860e+00 +1.276340312e-01 +6.728528286e+01 +6.630763403e+01
+ % restart: Indep. restart #24, because of tolx.
+748113 +1.474287027e+00 +1.276340312e-01 +6.765428703e+01 +6.630763403e+01
+ % restart: Indep. restart #25, because of tolx.
+775835 +1.564459136e+00 +1.276340312e-01 +6.774445914e+01 +6.630763403e+01
+ % restart: Indep. restart #26, because of tolx.
+804217 +1.360501171e-01 +1.276340312e-01 +6.631605012e+01 +6.630763403e+01
+ % restart: Indep. restart #27, because of tolx.
+832209 +1.112847517e+00 +1.276340312e-01 +6.729284752e+01 +6.630763403e+01
+ % restart: Indep. restart #28, because of tolx.
+861656 +1.190423769e+00 +1.276340312e-01 +6.737042377e+01 +6.630763403e+01
+ % restart: Indep. restart #29, because of tolx.
+892228 +5.622171805e-01 +1.276340312e-01 +6.674221718e+01 +6.630763403e+01
+ % restart: Indep. restart #30, because of tolx.
+920025 +5.591213115e-01 +1.276340312e-01 +6.673912131e+01 +6.630763403e+01
+ % restart: Indep. restart #31, because of tolx.
+949277 +4.479905958e-01 +1.276340312e-01 +6.662799060e+01 +6.630763403e+01
+ % restart: Indep. restart #32, because of tolx.
+979114 +1.012508436e+00 +1.276340312e-01 +6.719250844e+01 +6.630763403e+01
+ % restart: Indep. restart #33, because of tolx.
+1008021 +2.296039423e+00 +1.276340312e-01 +6.847603942e+01 +6.630763403e+01
+ % restart: Indep. restart #34, because of tolx.
+1037438 +6.661957604e-01 +1.276340312e-01 +6.684619576e+01 +6.630763403e+01
+ % restart: Indep. restart #35, because of tolx.
+1063690 +3.170129000e-01 +1.276340312e-01 +6.649701290e+01 +6.630763403e+01
+ % restart: Indep. restart #36, because of tolx.
+1097517 +3.312708103e-01 +1.276340312e-01 +6.651127081e+01 +6.630763403e+01
+ % restart: Indep. restart #37, because of tolx.
+1127834 +1.172732705e+00 +1.276340312e-01 +6.735273270e+01 +6.630763403e+01
+ % restart: Indep. restart #38, because of tolx.
+1157776 +7.639505908e-01 +1.276340312e-01 +6.694395059e+01 +6.630763403e+01
+ % restart: Indep. restart #39, because of tolx.
+1188693 +1.889986165e+00 +1.276340312e-01 +6.806998616e+01 +6.630763403e+01
+ % restart: Indep. restart #40, because of tolx.
+1221215 +5.287825366e-01 +1.276340312e-01 +6.670878254e+01 +6.630763403e+01
+ % restart: Indep. restart #41, because of tolx.
+1255117 +1.582188638e+00 +1.276340312e-01 +6.776218864e+01 +6.630763403e+01
+ % restart: Indep. restart #42, because of tolx.
+1280844 +3.741726385e-01 +1.276340312e-01 +6.655417264e+01 +6.630763403e+01
+ % restart: Indep. restart #43, because of tolx.
+1310066 +2.779307338e+00 +1.276340312e-01 +6.895930734e+01 +6.630763403e+01
+ % restart: Indep. restart #44, because of tolx.
+1345018 +6.232157600e-01 +1.276340312e-01 +6.680321576e+01 +6.630763403e+01
+ % restart: Indep. restart #45, because of tolx.
+1376415 +3.788558916e-01 +1.276340312e-01 +6.655885589e+01 +6.630763403e+01
+ % restart: Indep. restart #46, because of tolx.
+1403597 +3.445986835e-01 +1.276340312e-01 +6.652459868e+01 +6.630763403e+01
+ % restart: Indep. restart #47, because of tolx.
+1443244 +1.107097202e+00 +1.276340312e-01 +6.728709720e+01 +6.630763403e+01
+ % restart: Indep. restart #48, because of tolx.
+1467831 +2.699432510e-01 +1.276340312e-01 +6.644994325e+01 +6.630763403e+01
+ % restart: Indep. restart #49, because of tolx.
+1495148 +1.588138665e-01 +1.276340312e-01 +6.633881387e+01 +6.630763403e+01
+ % restart: Indep. restart #50, because of tolx.
+1523125 +3.560368859e-01 +1.276340312e-01 +6.653603689e+01 +6.630763403e+01
+ % restart: Indep. restart #51, because of tolx.
+1547892 +1.746485719e-01 +1.276340312e-01 +6.635464857e+01 +6.630763403e+01
+ % restart: Indep. restart #52, because of tolx.
+1574354 +6.832463400e-01 +1.276340312e-01 +6.686324634e+01 +6.630763403e+01
+ % restart: Indep. restart #53, because of tolx.
+1610911 +1.549831406e+00 +1.276340312e-01 +6.772983141e+01 +6.630763403e+01
+ % restart: Indep. restart #54, because of tolx.
+1639488 +4.420720737e-01 +1.276340312e-01 +6.662207207e+01 +6.630763403e+01
+ % restart: Indep. restart #55, because of tolx.
+1669220 +6.337402786e-01 +1.276340312e-01 +6.681374028e+01 +6.630763403e+01
+ % restart: Indep. restart #56, because of tolx.
+1700032 +4.818064885e-01 +1.276340312e-01 +6.666180649e+01 +6.630763403e+01
+ % restart: Indep. restart #57, because of tolx.
+1730139 +7.286324374e-01 +1.276340312e-01 +6.690863244e+01 +6.630763403e+01
+ % restart: Indep. restart #58, because of tolx.
+1757441 +1.481228817e-01 +1.276340312e-01 +6.632812288e+01 +6.630763403e+01
+ % restart: Indep. restart #59, because of tolx.
+1785868 +1.239042481e+00 +1.276340312e-01 +6.741904248e+01 +6.630763403e+01
+ % restart: Indep. restart #60, because of tolx.
+1817730 +5.610795359e-01 +1.276340312e-01 +6.674107954e+01 +6.630763403e+01
+ % restart: Indep. restart #61, because of tolx.
+1848602 +7.613579823e-01 +1.276340312e-01 +6.694135798e+01 +6.630763403e+01
+ % restart: Indep. restart #62, because of tolx.
+1879609 +3.293505586e-01 +1.276340312e-01 +6.650935056e+01 +6.630763403e+01
+ % restart: Indep. restart #63, because of tolx.
+1909386 +6.106718543e-01 +1.276340312e-01 +6.679067185e+01 +6.630763403e+01
+ % restart: Indep. restart #64, because of tolx.
+1938683 +4.734450644e-01 +1.276340312e-01 +6.665344506e+01 +6.630763403e+01
+ % restart: Indep. restart #65, because of tolx.
+1972990 +1.454861522e+00 +1.276340312e-01 +6.763486152e+01 +6.630763403e+01
+ % function evaluation | noise-free fitness - Fopt (-1.123000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolx.
+29852 +5.883557898e-01 +5.883557898e-01 -1.064164421e+01 -1.064164421e+01
+ % restart: Indep. restart #2, because of tolx.
+57889 +1.951002453e+00 +5.883557898e-01 -9.278997547e+00 -1.064164421e+01
+ % restart: Indep. restart #3, because of tolx.
+90876 +2.141428365e+00 +5.883557898e-01 -9.088571635e+00 -1.064164421e+01
+ % restart: Indep. restart #4, because of tolx.
+118148 +2.187530414e+00 +5.883557898e-01 -9.042469586e+00 -1.064164421e+01
+ % restart: Indep. restart #5, because of tolx.
+149665 +7.884042346e-01 +5.883557898e-01 -1.044159577e+01 -1.064164421e+01
+ % restart: Indep. restart #6, because of tolx.
+181452 +1.285726217e+00 +5.883557898e-01 -9.944273783e+00 -1.064164421e+01
+ % restart: Indep. restart #7, because of tolx.
+210239 +7.096095207e-01 +5.883557898e-01 -1.052039048e+01 -1.064164421e+01
+ % restart: Indep. restart #8, because of tolx.
+243121 +6.952328790e-01 +5.883557898e-01 -1.053476712e+01 -1.064164421e+01
+ % restart: Indep. restart #9, because of tolx.
+275373 +6.605964477e-01 +5.883557898e-01 -1.056940355e+01 -1.064164421e+01
+ % restart: Indep. restart #10, because of tolx.
+310550 +5.563487054e-01 +5.563487054e-01 -1.067365129e+01 -1.067365129e+01
+ % restart: Indep. restart #11, because of tolx.
+345232 +1.341324092e+00 +5.563487054e-01 -9.888675908e+00 -1.067365129e+01
+ % restart: Indep. restart #12, because of tolx.
+370884 +6.906935013e-01 +5.563487054e-01 -1.053930650e+01 -1.067365129e+01
+ % restart: Indep. restart #13, because of tolx.
+401876 +1.003720487e+00 +5.563487054e-01 -1.022627951e+01 -1.067365129e+01
+ % restart: Indep. restart #14, because of tolx.
+432718 +6.196082095e-01 +5.563487054e-01 -1.061039179e+01 -1.067365129e+01
+ % restart: Indep. restart #15, because of tolx.
+465735 +1.226453376e+00 +5.563487054e-01 -1.000354662e+01 -1.067365129e+01
+ % restart: Indep. restart #16, because of tolx.
+491447 +1.140888813e+00 +5.563487054e-01 -1.008911119e+01 -1.067365129e+01
+ % restart: Indep. restart #17, because of tolx.
+522229 +1.101572756e+00 +5.563487054e-01 -1.012842724e+01 -1.067365129e+01
+ % restart: Indep. restart #18, because of tolx.
+553116 +9.726510066e-01 +5.563487054e-01 -1.025734899e+01 -1.067365129e+01
+ % restart: Indep. restart #19, because of tolx.
+581588 +6.271294032e-01 +5.563487054e-01 -1.060287060e+01 -1.067365129e+01
+ % restart: Indep. restart #20, because of tolx.
+611425 +2.610577561e-01 +2.610577561e-01 -1.096894224e+01 -1.096894224e+01
+ % restart: Indep. restart #21, because of tolx.
+643812 +2.740535840e-01 +2.610577561e-01 -1.095594642e+01 -1.096894224e+01
+ % restart: Indep. restart #22, because of tolx.
+674279 +1.589828795e+00 +2.610577561e-01 -9.640171205e+00 -1.096894224e+01
+ % restart: Indep. restart #23, because of tolx.
+716551 +1.312204464e+00 +2.610577561e-01 -9.917795536e+00 -1.096894224e+01
+ % restart: Indep. restart #24, because of tolx.
+750798 +2.959762189e-01 +2.610577561e-01 -1.093402378e+01 -1.096894224e+01
+ % restart: Indep. restart #25, because of tolx.
+782795 +2.524251548e-01 +2.524251548e-01 -1.097757485e+01 -1.097757485e+01
+ % restart: Indep. restart #26, because of tolx.
+819982 +1.027449062e+00 +2.524251548e-01 -1.020255094e+01 -1.097757485e+01
+ % restart: Indep. restart #27, because of tolx.
+850179 +1.759375296e+00 +2.524251548e-01 -9.470624704e+00 -1.097757485e+01
+ % restart: Indep. restart #28, because of tolx.
+883121 +2.314752630e+00 +2.524251548e-01 -8.915247370e+00 -1.097757485e+01
+ % restart: Indep. restart #29, because of tolx.
+916228 +1.414821810e+00 +2.524251548e-01 -9.815178190e+00 -1.097757485e+01
+ % restart: Indep. restart #30, because of tolx.
+950910 +1.947098902e+00 +2.524251548e-01 -9.282901098e+00 -1.097757485e+01
+ % restart: Indep. restart #31, because of tolx.
+981242 +3.927065872e-01 +2.524251548e-01 -1.083729341e+01 -1.097757485e+01
+ % restart: Indep. restart #32, because of tolx.
+1007734 +1.081982809e+00 +2.524251548e-01 -1.014801719e+01 -1.097757485e+01
+ % restart: Indep. restart #33, because of tolx.
+1036611 +1.506537765e+00 +2.524251548e-01 -9.723462235e+00 -1.097757485e+01
+ % restart: Indep. restart #34, because of tolx.
+1068308 +1.485565416e+00 +2.524251548e-01 -9.744434584e+00 -1.097757485e+01
+ % restart: Indep. restart #35, because of tolx.
+1098520 +5.895967156e-01 +2.524251548e-01 -1.064040328e+01 -1.097757485e+01
+ % restart: Indep. restart #36, because of tolx.
+1132137 +1.584425486e-01 +1.584424839e-01 -1.107155745e+01 -1.107155752e+01
+ % restart: Indep. restart #37, because of tolx.
+1158869 +7.941560892e-01 +1.584424839e-01 -1.043584391e+01 -1.107155752e+01
+ % restart: Indep. restart #38, because of tolx.
+1189516 +1.552777520e+00 +1.584424839e-01 -9.677222480e+00 -1.107155752e+01
+ % restart: Indep. restart #39, because of tolx.
+1220073 +1.695822741e+00 +1.584424839e-01 -9.534177259e+00 -1.107155752e+01
+ % restart: Indep. restart #40, because of tolx.
+1251575 +3.087524964e-01 +1.584424839e-01 -1.092124750e+01 -1.107155752e+01
+ % restart: Indep. restart #41, because of tolx.
+1284352 +5.646529017e-01 +1.584424839e-01 -1.066534710e+01 -1.107155752e+01
+ % restart: Indep. restart #42, because of tolx.
+1317954 +4.187566585e-01 +1.584424839e-01 -1.081124334e+01 -1.107155752e+01
+ % restart: Indep. restart #43, because of tolx.
+1347356 +5.367998664e-01 +1.584424839e-01 -1.069320013e+01 -1.107155752e+01
+ % restart: Indep. restart #44, because of tolx.
+1379008 +8.793452080e-01 +1.584424839e-01 -1.035065479e+01 -1.107155752e+01
+ % restart: Indep. restart #45, because of tolx.
+1409280 +2.189171492e+00 +1.584424839e-01 -9.040828508e+00 -1.107155752e+01
+ % restart: Indep. restart #46, because of tolx.
+1443752 +1.495262846e+00 +1.584424839e-01 -9.734737154e+00 -1.107155752e+01
+ % restart: Indep. restart #47, because of tolx.
+1473454 +1.825301741e+00 +1.584424839e-01 -9.404698259e+00 -1.107155752e+01
+ % restart: Indep. restart #48, because of tolx.
+1504926 +7.463267210e-01 +1.584424839e-01 -1.048367328e+01 -1.107155752e+01
+ % restart: Indep. restart #49, because of tolx.
+1533848 +1.308937865e+00 +1.584424839e-01 -9.921062135e+00 -1.107155752e+01
+ % restart: Indep. restart #50, because of tolx.
+1561255 +1.894606305e-01 +1.584424839e-01 -1.104053937e+01 -1.107155752e+01
+ % restart: Indep. restart #51, because of tolx.
+1587372 +1.734905930e-01 +1.584424839e-01 -1.105650941e+01 -1.107155752e+01
+ % restart: Indep. restart #52, because of tolx.
+1628534 +8.224633496e-01 +1.584424839e-01 -1.040753665e+01 -1.107155752e+01
+ % restart: Indep. restart #53, because of tolx.
+1657636 +1.020880753e-01 +1.020880753e-01 -1.112791192e+01 -1.112791192e+01
+ % restart: Indep. restart #54, because of tolx.
+1686723 +5.350520724e-01 +1.020880753e-01 -1.069494793e+01 -1.112791192e+01
+ % restart: Indep. restart #55, because of tolx.
+1722530 +1.102055798e+00 +1.020880753e-01 -1.012794420e+01 -1.112791192e+01
+ % restart: Indep. restart #56, because of tolx.
+1757632 +2.021595247e-01 +1.020880753e-01 -1.102784048e+01 -1.112791192e+01
+ % restart: Indep. restart #57, because of tolx.
+1785114 +4.026189238e-01 +1.020880753e-01 -1.082738108e+01 -1.112791192e+01
+ % restart: Indep. restart #58, because of tolx.
+1812221 +2.216971419e-01 +1.020880753e-01 -1.100830286e+01 -1.112791192e+01
+ % restart: Indep. restart #59, because of tolx.
+1841203 +1.892637712e+00 +1.020880753e-01 -9.337362288e+00 -1.112791192e+01
+ % restart: Indep. restart #60, because of tolx.
+1871220 +5.518215393e-01 +1.020880753e-01 -1.067817846e+01 -1.112791192e+01
+ % restart: Indep. restart #61, because of tolx.
+1906277 +3.282724961e+00 +1.020880753e-01 -7.947275039e+00 -1.112791192e+01
+ % restart: Indep. restart #62, because of tolx.
+1943044 +4.675145259e-01 +1.020880753e-01 -1.076248547e+01 -1.112791192e+01
+ % restart: Indep. restart #63, because of tolx.
+1969341 +1.099544335e+00 +1.020880753e-01 -1.013045567e+01 -1.112791192e+01
+ % function evaluation | noise-free fitness - Fopt (1.628000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolx.
+33302 +4.769687056e-01 +4.769686717e-01 +1.675696871e+01 +1.675696867e+01
+ % restart: Indep. restart #2, because of tolx.
+66559 +2.743832195e-01 +2.743832195e-01 +1.655438322e+01 +1.655438322e+01
+ % restart: Indep. restart #3, because of tolx.
+97311 +3.362370107e-01 +2.743832195e-01 +1.661623701e+01 +1.655438322e+01
+ % restart: Indep. restart #4, because of tolx.
+127073 +2.014159197e-01 +2.014159197e-01 +1.648141592e+01 +1.648141592e+01
+ % restart: Indep. restart #5, because of tolx.
+162145 +4.204861453e-01 +2.014159197e-01 +1.670048615e+01 +1.648141592e+01
+ % restart: Indep. restart #6, because of tolx.
+193032 +5.744996646e-01 +2.014159197e-01 +1.685449966e+01 +1.648141592e+01
+ % restart: Indep. restart #7, because of tolx.
+226454 +1.730915068e-01 +1.730914914e-01 +1.645309151e+01 +1.645309149e+01
+ % restart: Indep. restart #8, because of tolx.
+250501 +9.115173438e-01 +1.730914914e-01 +1.719151734e+01 +1.645309149e+01
+ % restart: Indep. restart #9, because of tolx.
+280398 +4.645823429e-01 +1.730914914e-01 +1.674458234e+01 +1.645309149e+01
+ % restart: Indep. restart #10, because of tolx.
+326540 +2.611423374e+00 +1.730914914e-01 +1.889142337e+01 +1.645309149e+01
+ % restart: Indep. restart #11, because of tolx.
+354562 +3.652097623e-01 +1.730914914e-01 +1.664520976e+01 +1.645309149e+01
+ % restart: Indep. restart #12, because of tolx.
+383739 +1.835158761e-01 +1.730914914e-01 +1.646351588e+01 +1.645309149e+01
+ % restart: Indep. restart #13, because of tolx.
+415511 +2.315682510e-01 +1.730914914e-01 +1.651156825e+01 +1.645309149e+01
+ % restart: Indep. restart #14, because of tolx.
+441943 +1.636985295e-01 +1.636985169e-01 +1.644369853e+01 +1.644369852e+01
+ % restart: Indep. restart #15, because of tolx.
+470700 +2.367410762e-01 +1.636985169e-01 +1.651674108e+01 +1.644369852e+01
+ % restart: Indep. restart #16, because of tolx.
+502937 +1.268210229e+00 +1.636985169e-01 +1.754821023e+01 +1.644369852e+01
+ % restart: Indep. restart #17, because of tolx.
+528199 +4.149468334e-01 +1.636985169e-01 +1.669494683e+01 +1.644369852e+01
+ % restart: Indep. restart #18, because of tolx.
+565671 +7.604025148e-01 +1.636985169e-01 +1.704040251e+01 +1.644369852e+01
+ % restart: Indep. restart #19, because of tolx.
+595358 +2.707032776e-01 +1.636985169e-01 +1.655070328e+01 +1.644369852e+01
+ % restart: Indep. restart #20, because of tolx.
+625765 +6.926352385e-01 +1.636985169e-01 +1.697263524e+01 +1.644369852e+01
+ % restart: Indep. restart #21, because of tolx.
+652782 +2.739439141e-01 +1.636985169e-01 +1.655394391e+01 +1.644369852e+01
+ % restart: Indep. restart #22, because of tolx.
+682514 +5.169195135e-01 +1.636985169e-01 +1.679691951e+01 +1.644369852e+01
+ % restart: Indep. restart #23, because of tolx.
+714721 +1.930799251e+00 +1.636985169e-01 +1.821079925e+01 +1.644369852e+01
+ % restart: Indep. restart #24, because of tolx.
+743088 +5.991338357e-01 +1.636985169e-01 +1.687913384e+01 +1.644369852e+01
+ % restart: Indep. restart #25, because of tolx.
+777305 +6.075963003e-01 +1.636985169e-01 +1.688759630e+01 +1.644369852e+01
+ % restart: Indep. restart #26, because of tolx.
+804832 +4.084722444e-01 +1.636985169e-01 +1.668847224e+01 +1.644369852e+01
+ % restart: Indep. restart #27, because of tolx.
+835479 +6.168682407e-01 +1.636985169e-01 +1.689686824e+01 +1.644369852e+01
+ % restart: Indep. restart #28, because of tolx.
+866111 +2.042676000e-01 +1.636985169e-01 +1.648426760e+01 +1.644369852e+01
+ % restart: Indep. restart #29, because of tolx.
+893833 +5.958424168e-01 +1.636985169e-01 +1.687584242e+01 +1.644369852e+01
+ % restart: Indep. restart #30, because of tolx.
+921870 +1.103843918e+00 +1.636985169e-01 +1.738384392e+01 +1.644369852e+01
+ % restart: Indep. restart #31, because of tolx.
+952352 +8.229405599e-01 +1.636985169e-01 +1.710294056e+01 +1.644369852e+01
+ % restart: Indep. restart #32, because of tolx.
+989674 +3.721224988e+00 +1.636985169e-01 +2.000122499e+01 +1.644369852e+01
+ % restart: Indep. restart #33, because of tolx.
+1022436 +2.516779001e-01 +1.636985169e-01 +1.653167790e+01 +1.644369852e+01
+ % restart: Indep. restart #34, because of tolx.
+1049228 +1.010478390e-01 +1.010478357e-01 +1.638104784e+01 +1.638104784e+01
+ % restart: Indep. restart #35, because of tolx.
+1078630 +6.306339418e-02 +6.306334246e-02 +1.634306339e+01 +1.634306334e+01
+ % restart: Indep. restart #36, because of tolx.
+1109382 +1.738059883e-01 +6.306334246e-02 +1.645380599e+01 +1.634306334e+01
+ % restart: Indep. restart #37, because of tolx.
+1140449 +5.963194352e-01 +6.306334246e-02 +1.687631944e+01 +1.634306334e+01
+ % restart: Indep. restart #38, because of tolx.
+1169326 +5.453836128e-01 +6.306334246e-02 +1.682538361e+01 +1.634306334e+01
+ % restart: Indep. restart #39, because of tolx.
+1198803 +3.617049136e-01 +6.306334246e-02 +1.664170491e+01 +1.634306334e+01
+ % restart: Indep. restart #40, because of tolx.
+1226105 +1.078966140e+00 +6.306334246e-02 +1.735896614e+01 +1.634306334e+01
+ % restart: Indep. restart #41, because of tolx.
+1258882 +1.072418503e-01 +6.306334246e-02 +1.638724185e+01 +1.634306334e+01
+ % restart: Indep. restart #42, because of tolx.
+1285884 +2.972532467e-01 +6.306334246e-02 +1.657725325e+01 +1.634306334e+01
+ % restart: Indep. restart #43, because of tolx.
+1318451 +1.221176042e+00 +6.306334246e-02 +1.750117604e+01 +1.634306334e+01
+ % restart: Indep. restart #44, because of tolx.
+1346398 +9.381410363e-01 +6.306334246e-02 +1.721814104e+01 +1.634306334e+01
+ % restart: Indep. restart #45, because of tolx.
+1379475 +5.928089205e-01 +6.306334246e-02 +1.687280892e+01 +1.634306334e+01
+ % restart: Indep. restart #46, because of tolx.
+1408367 +1.267164652e-01 +6.306334246e-02 +1.640671647e+01 +1.634306334e+01
+ % restart: Indep. restart #47, because of tolx.
+1434889 +1.001401247e-01 +6.306334246e-02 +1.638014012e+01 +1.634306334e+01
+ % restart: Indep. restart #48, because of tolx.
+1468476 +2.003062816e-01 +6.306334246e-02 +1.648030628e+01 +1.634306334e+01
+ % restart: Indep. restart #49, because of tolx.
+1495403 +3.088790709e+00 +6.306334246e-02 +1.936879071e+01 +1.634306334e+01
+ % restart: Indep. restart #50, because of tolx.
+1523215 +6.112593025e-01 +6.306334246e-02 +1.689125930e+01 +1.634306334e+01
+ % restart: Indep. restart #51, because of tolx.
+1557387 +4.239458499e-01 +6.306334246e-02 +1.670394585e+01 +1.634306334e+01
+ % restart: Indep. restart #52, because of tolx.
+1583549 +1.896122283e-01 +6.306334246e-02 +1.646961223e+01 +1.634306334e+01
+ % restart: Indep. restart #53, because of tolx.
+1611526 +1.010899996e+00 +6.306334246e-02 +1.729090000e+01 +1.634306334e+01
+ % restart: Indep. restart #54, because of tolx.
+1640418 +1.011103086e+00 +6.306334246e-02 +1.729110309e+01 +1.634306334e+01
+ % restart: Indep. restart #55, because of tolx.
+1672595 +1.528619381e-01 +6.306334246e-02 +1.643286194e+01 +1.634306334e+01
+ % restart: Indep. restart #56, because of tolx.
+1698637 +1.329366505e+00 +6.306334246e-02 +1.760936650e+01 +1.634306334e+01
+ % restart: Indep. restart #57, because of tolx.
+1726254 +2.766059229e-01 +6.306334246e-02 +1.655660592e+01 +1.634306334e+01
+ % restart: Indep. restart #58, because of tolx.
+1759931 +9.988533769e-01 +6.306334246e-02 +1.727885338e+01 +1.634306334e+01
+ % restart: Indep. restart #59, because of tolx.
+1792333 +1.630981358e-01 +6.306334246e-02 +1.644309814e+01 +1.634306334e+01
+ % restart: Indep. restart #60, because of tolx.
+1820085 +1.420160275e-01 +6.306334246e-02 +1.642201603e+01 +1.634306334e+01
+ % restart: Indep. restart #61, because of tolx.
+1851707 +3.979820471e-01 +6.306334246e-02 +1.667798205e+01 +1.634306334e+01
+ % restart: Indep. restart #62, because of tolx.
+1884724 +9.778041293e-01 +6.306334246e-02 +1.725780413e+01 +1.634306334e+01
+ % restart: Indep. restart #63, because of tolx.
+1917516 +5.960108784e-01 +6.306334246e-02 +1.687601088e+01 +1.634306334e+01
+ % restart: Indep. restart #64, because of tolx.
+1948418 +5.032324803e-01 +6.306334246e-02 +1.678323248e+01 +1.634306334e+01
+ % restart: Indep. restart #65, because of tolx.
+1977265 +3.089845198e-01 +6.306334246e-02 +1.658898452e+01 +1.634306334e+01
+ % function evaluation | noise-free fitness - Fopt (1.776600000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolx.
+30137 +3.521620531e-01 +3.521620531e-01 +1.780121621e+02 +1.780121621e+02
+ % restart: Indep. restart #2, because of tolx.
+67189 +2.529915990e-01 +2.529915990e-01 +1.779129916e+02 +1.779129916e+02
+ % restart: Indep. restart #3, because of tolx.
+99231 +5.400783418e-01 +2.529915990e-01 +1.782000783e+02 +1.779129916e+02
+ % restart: Indep. restart #4, because of tolx.
+127568 +1.422980475e+00 +2.529915990e-01 +1.790829805e+02 +1.779129916e+02
+ % restart: Indep. restart #5, because of tolx.
+153190 +7.212278628e-01 +2.529915990e-01 +1.783812279e+02 +1.779129916e+02
+ % restart: Indep. restart #6, because of tolx.
+183867 +4.479496916e-01 +2.529915990e-01 +1.781079497e+02 +1.779129916e+02
+ % restart: Indep. restart #7, because of tolx.
+214064 +9.550255929e-02 +9.550255929e-02 +1.777555026e+02 +1.777555026e+02
+ % restart: Indep. restart #8, because of tolx.
+240241 +4.195999154e-01 +9.550255929e-02 +1.780795999e+02 +1.777555026e+02
+ % restart: Indep. restart #9, because of tolx.
+272118 +4.022547743e-01 +9.550255929e-02 +1.780622548e+02 +1.777555026e+02
+ % restart: Indep. restart #10, because of tolx.
+299405 +7.608386029e-01 +9.550255929e-02 +1.784208386e+02 +1.777555026e+02
+ % restart: Indep. restart #11, because of tolx.
+329797 +1.538672378e+00 +9.550255929e-02 +1.791986724e+02 +1.777555026e+02
+ % restart: Indep. restart #12, because of tolx.
+362769 +3.126136962e-01 +9.550255929e-02 +1.779726137e+02 +1.777555026e+02
+ % restart: Indep. restart #13, because of tolx.
+389066 +4.057961391e-01 +9.550255929e-02 +1.780657961e+02 +1.777555026e+02
+ % restart: Indep. restart #14, because of tolx.
+425713 +2.787117972e-01 +9.550255929e-02 +1.779387118e+02 +1.777555026e+02
+ % restart: Indep. restart #15, because of tolx.
+451890 +1.921409700e-01 +9.550255929e-02 +1.778521410e+02 +1.777555026e+02
+ % restart: Indep. restart #16, because of tolx.
+480887 +2.714611219e-01 +9.550255929e-02 +1.779314611e+02 +1.777555026e+02
+ % restart: Indep. restart #17, because of tolx.
+512029 +1.046031969e+00 +9.550255929e-02 +1.787060320e+02 +1.777555026e+02
+ % restart: Indep. restart #18, because of tolx.
+544236 +6.425290253e-01 +9.550255929e-02 +1.783025290e+02 +1.777555026e+02
+ % restart: Indep. restart #19, because of tolx.
+576533 +1.322024006e+00 +9.550255929e-02 +1.789820240e+02 +1.777555026e+02
+ % restart: Indep. restart #20, because of tolx.
+604330 +3.446451932e-01 +9.550255929e-02 +1.780046452e+02 +1.777555026e+02
+ % restart: Indep. restart #21, because of tolx.
+635787 +9.437446800e-01 +9.550255929e-02 +1.786037447e+02 +1.777555026e+02
+ % restart: Indep. restart #22, because of tolx.
+661814 +5.021968394e-01 +9.550255929e-02 +1.781621968e+02 +1.777555026e+02
+ % restart: Indep. restart #23, because of tolx.
+700291 +8.388769457e-01 +9.550255929e-02 +1.784988769e+02 +1.777555026e+02
+ % restart: Indep. restart #24, because of tolx.
+733923 +1.611211140e+00 +9.550255929e-02 +1.792712111e+02 +1.777555026e+02
+ % restart: Indep. restart #25, because of tolx.
+765530 +1.079944559e+00 +9.550255929e-02 +1.787399446e+02 +1.777555026e+02
+ % restart: Indep. restart #26, because of tolx.
+791617 +5.716474202e-01 +9.550255929e-02 +1.782316474e+02 +1.777555026e+02
+ % restart: Indep. restart #27, because of tolx.
+819744 +5.136714422e-01 +9.550255929e-02 +1.781736714e+02 +1.777555026e+02
+ % restart: Indep. restart #28, because of tolx.
+846356 +7.759123479e-01 +9.550255929e-02 +1.784359123e+02 +1.777555026e+02
+ % restart: Indep. restart #29, because of tolx.
+875233 +4.342438701e-01 +9.550255929e-02 +1.780942439e+02 +1.777555026e+02
+ % restart: Indep. restart #30, because of tolx.
+900975 +2.136265272e-01 +9.550255929e-02 +1.778736265e+02 +1.777555026e+02
+ % restart: Indep. restart #31, because of tolx.
+930977 +4.792996510e-01 +9.550255929e-02 +1.781392997e+02 +1.777555026e+02
+ % restart: Indep. restart #32, because of tolx.
+960139 +7.574490878e-01 +9.550255929e-02 +1.784174491e+02 +1.777555026e+02
+ % restart: Indep. restart #33, because of tolx.
+987096 +6.811134572e-01 +9.550255929e-02 +1.783411135e+02 +1.777555026e+02
+ % restart: Indep. restart #34, because of tolx.
+1017713 +6.733181183e-01 +9.550255929e-02 +1.783333181e+02 +1.777555026e+02
+ % restart: Indep. restart #35, because of tolx.
+1045210 +1.335975619e+00 +9.550255929e-02 +1.789959756e+02 +1.777555026e+02
+ % restart: Indep. restart #36, because of tolx.
+1076682 +1.887107116e-01 +9.550255929e-02 +1.778487107e+02 +1.777555026e+02
+ % restart: Indep. restart #37, because of tolx.
+1105499 +5.567642452e-01 +9.550255929e-02 +1.782167642e+02 +1.777555026e+02
+ % restart: Indep. restart #38, because of tolx.
+1137196 +4.646557415e-01 +9.550255929e-02 +1.781246557e+02 +1.777555026e+02
+ % restart: Indep. restart #39, because of tolx.
+1169073 +8.194873746e-02 +8.194870172e-02 +1.777419487e+02 +1.777419487e+02
+ % restart: Indep. restart #40, because of tolx.
+1196300 +3.042101212e-01 +8.194870172e-02 +1.779642101e+02 +1.777419487e+02
+ % restart: Indep. restart #41, because of tolx.
+1222087 +7.418370169e-01 +8.194870172e-02 +1.784018370e+02 +1.777419487e+02
+ % restart: Indep. restart #42, because of tolx.
+1257114 +4.913883311e-01 +8.194870172e-02 +1.781513883e+02 +1.777419487e+02
+ % restart: Indep. restart #43, because of tolx.
+1287656 +1.815530397e-01 +8.194870172e-02 +1.778415530e+02 +1.777419487e+02
+ % restart: Indep. restart #44, because of tolx.
+1321438 +9.632022045e-01 +8.194870172e-02 +1.786232022e+02 +1.777419487e+02
+ % restart: Indep. restart #45, because of tolx.
+1361025 +6.913115338e-01 +8.194870172e-02 +1.783513115e+02 +1.777419487e+02
+ % restart: Indep. restart #46, because of tolx.
+1386662 +1.175764519e-01 +8.194870172e-02 +1.777775765e+02 +1.777419487e+02
+ % restart: Indep. restart #47, because of tolx.
+1421014 +7.147740697e-01 +8.194870172e-02 +1.783747741e+02 +1.777419487e+02
+ % restart: Indep. restart #48, because of tolx.
+1450806 +5.074364985e-01 +8.194870172e-02 +1.781674365e+02 +1.777419487e+02
+ % restart: Indep. restart #49, because of tolx.
+1482893 +4.467055053e-01 +8.194870172e-02 +1.781067055e+02 +1.777419487e+02
+ % restart: Indep. restart #50, because of tolx.
+1511785 +1.293162007e+00 +8.194870172e-02 +1.789531620e+02 +1.777419487e+02
+ % restart: Indep. restart #51, because of tolx.
+1540962 +7.929356839e-01 +8.194870172e-02 +1.784529357e+02 +1.777419487e+02
+ % restart: Indep. restart #52, because of tolx.
+1577894 +5.176431006e-01 +8.194870172e-02 +1.781776431e+02 +1.777419487e+02
+ % restart: Indep. restart #53, because of tolx.
+1611436 +6.433545166e-01 +8.194870172e-02 +1.783033545e+02 +1.777419487e+02
+ % restart: Indep. restart #54, because of tolx.
+1640868 +1.798651585e+00 +8.194870172e-02 +1.794586516e+02 +1.777419487e+02
+ % restart: Indep. restart #55, because of tolx.
+1669730 +2.017980229e-01 +8.194870172e-02 +1.778617980e+02 +1.777419487e+02
+ % restart: Indep. restart #56, because of tolx.
+1699297 +2.615949440e-01 +8.194870172e-02 +1.779215949e+02 +1.777419487e+02
+ % restart: Indep. restart #57, because of tolx.
+1729659 +3.322845730e-01 +8.194870172e-02 +1.779922846e+02 +1.777419487e+02
+ % restart: Indep. restart #58, because of tolx.
+1769666 +7.222031497e-01 +8.194870172e-02 +1.783822031e+02 +1.777419487e+02
+ % restart: Indep. restart #59, because of tolx.
+1800523 +1.201530893e-01 +8.194870172e-02 +1.777801531e+02 +1.777419487e+02
+ % restart: Indep. restart #60, because of tolx.
+1831185 +4.263030723e-01 +8.194870172e-02 +1.780863031e+02 +1.777419487e+02
+ % restart: Indep. restart #61, because of tolx.
+1877642 +3.125701895e-01 +8.194870172e-02 +1.779725702e+02 +1.777419487e+02
+ % restart: Indep. restart #62, because of tolx.
+1906654 +1.418954856e-01 +8.194870172e-02 +1.778018955e+02 +1.777419487e+02
+ % restart: Indep. restart #63, because of tolx.
+1937181 +9.270049740e-01 +8.194870172e-02 +1.785870050e+02 +1.777419487e+02
+ % restart: Indep. restart #64, because of tolx.
+1962773 +9.121743133e-01 +8.194870172e-02 +1.785721743e+02 +1.777419487e+02
+ % restart: Indep. restart #65, because of tolx.
+1988770 +3.568288296e-01 +8.194870172e-02 +1.780168288e+02 +1.777419487e+02
+ % function evaluation | noise-free fitness - Fopt (-1.000000000000e+03) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolx.
+26312 +1.008560643e+00 +1.008560643e+00 -9.989914394e+02 -9.989914394e+02
+ % restart: Indep. restart #2, because of tolx.
+54694 +1.295069582e+00 +1.008560643e+00 -9.987049304e+02 -9.989914394e+02
+ % restart: Indep. restart #3, because of tolx.
+87651 +1.577246978e+00 +1.008560643e+00 -9.984227530e+02 -9.989914394e+02
+ % restart: Indep. restart #4, because of tolx.
+115808 +4.451275519e-01 +4.451274898e-01 -9.995548724e+02 -9.995548725e+02
+ % restart: Indep. restart #5, because of tolx.
+147295 +1.597032174e+00 +4.451274898e-01 -9.984029678e+02 -9.995548725e+02
+ % restart: Indep. restart #6, because of tolx.
+179607 +1.476830505e+00 +4.451274898e-01 -9.985231695e+02 -9.995548725e+02
+ % restart: Indep. restart #7, because of tolx.
+206939 +7.908438917e-01 +4.451274898e-01 -9.992091561e+02 -9.995548725e+02
+ % restart: Indep. restart #8, because of tolx.
+238771 +9.213824074e-01 +4.451274898e-01 -9.990786176e+02 -9.995548725e+02
+ % restart: Indep. restart #9, because of tolx.
+265338 +1.112243748e+00 +4.451274898e-01 -9.988877563e+02 -9.995548725e+02
+ % restart: Indep. restart #10, because of tolx.
+291590 +9.208794689e-01 +4.451274898e-01 -9.990791205e+02 -9.995548725e+02
+ % restart: Indep. restart #11, because of tolx.
+318757 +2.291226899e-01 +2.291226899e-01 -9.997708773e+02 -9.997708773e+02
+ % restart: Indep. restart #12, because of tolx.
+346524 +1.028487932e+00 +2.291226899e-01 -9.989715121e+02 -9.997708773e+02
+ % restart: Indep. restart #13, because of tolx.
+379391 +3.048144572e-01 +2.291226899e-01 -9.996951855e+02 -9.997708773e+02
+ % restart: Indep. restart #14, because of tolx.
+407863 +3.755127229e-01 +2.291226899e-01 -9.996244873e+02 -9.997708773e+02
+ % restart: Indep. restart #15, because of tolx.
+438840 +3.243541287e-01 +2.291226899e-01 -9.996756459e+02 -9.997708773e+02
+ % restart: Indep. restart #16, because of tolx.
+466637 +3.340008532e-01 +2.291226899e-01 -9.996659991e+02 -9.997708773e+02
+ % restart: Indep. restart #17, because of tolx.
+506779 +5.861148794e-01 +2.291226899e-01 -9.994138851e+02 -9.997708773e+02
+ % restart: Indep. restart #18, because of tolx.
+537171 +5.197743866e-01 +2.291226899e-01 -9.994802256e+02 -9.997708773e+02
+ % restart: Indep. restart #19, because of tolx.
+567203 +8.727791160e-01 +2.291226899e-01 -9.991272209e+02 -9.997708773e+02
+ % restart: Indep. restart #20, because of tolx.
+599665 +3.197276015e-01 +2.291226899e-01 -9.996802724e+02 -9.997708773e+02
+ % restart: Indep. restart #21, because of tolx.
+628182 +1.278858223e+00 +2.291226899e-01 -9.987211418e+02 -9.997708773e+02
+ % restart: Indep. restart #22, because of tolx.
+653819 +1.199252163e+00 +2.291226899e-01 -9.988007478e+02 -9.997708773e+02
+ % restart: Indep. restart #23, because of tolx.
+681211 +2.520253217e-01 +2.291226899e-01 -9.997479747e+02 -9.997708773e+02
+ % restart: Indep. restart #24, because of tolx.
+715968 +1.795436274e+00 +2.291226899e-01 -9.982045637e+02 -9.997708773e+02
+ % restart: Indep. restart #25, because of tolx.
+746780 +2.807504730e+00 +2.291226899e-01 -9.971924953e+02 -9.997708773e+02
+ % restart: Indep. restart #26, because of tolx.
+772132 +3.501697532e-01 +2.291226899e-01 -9.996498302e+02 -9.997708773e+02
+ % restart: Indep. restart #27, because of tolx.
+799329 +4.335150828e-01 +2.291226899e-01 -9.995664849e+02 -9.997708773e+02
+ % restart: Indep. restart #28, because of tolx.
+831431 +3.594471862e-01 +2.291226899e-01 -9.996405528e+02 -9.997708773e+02
+ % restart: Indep. restart #29, because of tolx.
+875548 +3.572792931e+00 +2.291226899e-01 -9.964272071e+02 -9.997708773e+02
+ % restart: Indep. restart #30, because of tolx.
+905040 +1.565168266e-01 +1.565168014e-01 -9.998434832e+02 -9.998434832e+02
+ % restart: Indep. restart #31, because of tolx.
+930752 +9.763506224e-01 +1.565168014e-01 -9.990236494e+02 -9.998434832e+02
+ % restart: Indep. restart #32, because of tolx.
+958969 +9.377194773e-01 +1.565168014e-01 -9.990622805e+02 -9.998434832e+02
+ % restart: Indep. restart #33, because of tolx.
+987576 +2.136922982e-01 +1.565168014e-01 -9.997863077e+02 -9.998434832e+02
+ % restart: Indep. restart #34, because of tolx.
+1030403 +3.261705486e+00 +1.565168014e-01 -9.967382945e+02 -9.998434832e+02
+ % restart: Indep. restart #35, because of tolx.
+1061290 +7.121258152e-01 +1.565168014e-01 -9.992878742e+02 -9.998434832e+02
+ % restart: Indep. restart #36, because of tolx.
+1089762 +5.276912991e-01 +1.565168014e-01 -9.994723087e+02 -9.998434832e+02
+ % restart: Indep. restart #37, because of tolx.
+1118744 +2.713195904e-01 +1.565168014e-01 -9.997286804e+02 -9.998434832e+02
+ % restart: Indep. restart #38, because of tolx.
+1148446 +3.851049813e-01 +1.565168014e-01 -9.996148950e+02 -9.998434832e+02
+ % restart: Indep. restart #39, because of tolx.
+1176408 +1.565281827e-01 +1.565168014e-01 -9.998434718e+02 -9.998434832e+02
+ % restart: Indep. restart #40, because of tolx.
+1211885 +1.239292356e+00 +1.565168014e-01 -9.987607076e+02 -9.998434832e+02
+ % restart: Indep. restart #41, because of tolx.
+1246492 +1.357264123e+00 +1.565168014e-01 -9.986427359e+02 -9.998434832e+02
+ % restart: Indep. restart #42, because of tolx.
+1275399 +4.703868055e-01 +1.565168014e-01 -9.995296132e+02 -9.998434832e+02
+ % restart: Indep. restart #43, because of tolx.
+1307681 +1.786393518e+00 +1.565168014e-01 -9.982136065e+02 -9.998434832e+02
+ % restart: Indep. restart #44, because of tolx.
+1341283 +1.734869316e+00 +1.565168014e-01 -9.982651307e+02 -9.998434832e+02
+ % restart: Indep. restart #45, because of tolx.
+1368120 +4.200979150e-01 +1.565168014e-01 -9.995799021e+02 -9.998434832e+02
+ % restart: Indep. restart #46, because of tolx.
+1399862 +6.249329623e-01 +1.565168014e-01 -9.993750670e+02 -9.998434832e+02
+ % restart: Indep. restart #47, because of tolx.
+1426744 +1.585201132e-01 +1.565168014e-01 -9.998414799e+02 -9.998434832e+02
+ % restart: Indep. restart #48, because of tolx.
+1454151 +5.049085285e-01 +1.565168014e-01 -9.994950915e+02 -9.998434832e+02
+ % restart: Indep. restart #49, because of tolx.
+1484723 +1.137392802e+00 +1.565168014e-01 -9.988626072e+02 -9.998434832e+02
+ % restart: Indep. restart #50, because of tolx.
+1517365 +8.771227622e-01 +1.565168014e-01 -9.991228772e+02 -9.998434832e+02
+ % restart: Indep. restart #51, because of tolx.
+1544247 +7.410772210e-01 +1.565168014e-01 -9.992589228e+02 -9.998434832e+02
+ % restart: Indep. restart #52, because of tolx.
+1570169 +1.960572287e-01 +1.565168014e-01 -9.998039428e+02 -9.998434832e+02
+ % restart: Indep. restart #53, because of tolx.
+1606936 +8.611732542e+00 +1.565168014e-01 -9.913882675e+02 -9.998434832e+02
+ % restart: Indep. restart #54, because of tolx.
+1633863 +6.671255361e-01 +1.565168014e-01 -9.993328745e+02 -9.998434832e+02
+ % restart: Indep. restart #55, because of tolx.
+1664135 +2.320559409e-01 +1.565168014e-01 -9.997679441e+02 -9.998434832e+02
+ % restart: Indep. restart #56, because of tolx.
+1691842 +8.136170702e-01 +1.565168014e-01 -9.991863829e+02 -9.998434832e+02
+ % restart: Indep. restart #57, because of tolx.
+1726479 +2.359859911e+00 +1.565168014e-01 -9.976401401e+02 -9.998434832e+02
+ % restart: Indep. restart #58, because of tolx.
+1759586 +7.365397972e-01 +1.565168014e-01 -9.992634602e+02 -9.998434832e+02
+ % restart: Indep. restart #59, because of tolx.
+1784968 +5.539637422e-01 +1.565168014e-01 -9.994460363e+02 -9.998434832e+02
+ % restart: Indep. restart #60, because of tolx.
+1812795 +1.979592186e-01 +1.565168014e-01 -9.998020408e+02 -9.998434832e+02
+ % restart: Indep. restart #61, because of tolx.
+1845347 +3.992069114e-01 +1.565168014e-01 -9.996007931e+02 -9.998434832e+02
+ % restart: Indep. restart #62, because of tolx.
+1872154 +7.373963646e-01 +1.565168014e-01 -9.992626036e+02 -9.998434832e+02
+ % restart: Indep. restart #63, because of tolx.
+1904196 +4.765196389e-01 +1.565168014e-01 -9.995234804e+02 -9.998434832e+02
+ % restart: Indep. restart #64, because of tolx.
+1934828 +5.526647351e-01 +1.565168014e-01 -9.994473353e+02 -9.998434832e+02
+ % restart: Indep. restart #65, because of tolx.
+1963975 +8.059679992e-01 +1.565168014e-01 -9.991940320e+02 -9.998434832e+02
+ % restart: Indep. restart #66, because of tolx.
+1992087 +8.013705608e-02 +8.013705608e-02 -9.999198629e+02 -9.999198629e+02
+ 

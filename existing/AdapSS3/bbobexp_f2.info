@@ -1,0 +1,18 @@
+funcId = 2, DIM = 2, Precision = 1.000e-08, algId = 'PM-AdapSS-DE'
+% Probability Matching with absolute average of the relative fitness improvement as Credit Assignment (see GECCO10 paper).
+data_f2/bbobexp_f2_DIM2.dat, 1:880|-5.7e-10, 2:940|-8.0e-09, 3:920|-7.4e-09, 4:920|-6.1e-10, 5:940|-6.3e-09, 6:1080|-9.3e-09, 7:980|-2.8e-09, 8:900|-1.6e-09, 9:1040|-9.1e-09, 10:960|-9.1e-09, 11:900|-7.4e-09, 12:1000|-8.8e-09, 13:1020|-6.4e-09, 14:960|-4.0e-09, 15:920|-2.9e-09
+funcId = 2, DIM = 3, Precision = 1.000e-08, algId = 'PM-AdapSS-DE'
+% Probability Matching with absolute average of the relative fitness improvement as Credit Assignment (see GECCO10 paper).
+data_f2/bbobexp_f2_DIM3.dat, 1:2190|-6.6e-09, 2:2130|-4.0e-09, 3:2190|-8.7e-10, 4:1890|-3.9e-10, 5:2010|-7.4e-09, 6:2040|-1.2e-10, 7:2100|-7.7e-09, 8:2100|-8.4e-09, 9:2100|-4.4e-10, 10:2190|-5.8e-09, 11:2280|-7.0e-09, 12:2250|-5.2e-09, 13:1980|-7.2e-09, 14:2340|-6.4e-09, 15:1890|-1.9e-09
+funcId = 2, DIM = 5, Precision = 1.000e-08, algId = 'PM-AdapSS-DE'
+% Probability Matching with absolute average of the relative fitness improvement as Credit Assignment (see GECCO10 paper).
+data_f2/bbobexp_f2_DIM5.dat, 1:5500|-7.2e-09, 2:5600|-7.7e-09, 3:5600|-5.5e-10, 4:5600|-4.0e-10, 5:5650|-5.2e-10, 6:5650|-2.3e-09, 7:5650|-1.2e-09, 8:5850|-2.4e-09, 9:5650|-3.1e-09, 10:5950|-6.8e-09, 11:5600|-5.6e-09, 12:5700|-1.9e-09, 13:5550|-4.2e-09, 14:5350|-3.3e-09, 15:5650|-1.1e-09
+funcId = 2, DIM = 10, Precision = 1.000e-08, algId = 'PM-AdapSS-DE'
+% Probability Matching with absolute average of the relative fitness improvement as Credit Assignment (see GECCO10 paper).
+data_f2/bbobexp_f2_DIM10.dat, 1:17900|-2.1e-09, 2:18400|-2.3e-09, 3:18900|-3.1e-09, 4:18500|-2.0e-09, 5:18800|-2.2e-09, 6:17900|-1.6e-09, 7:18100|-3.6e-09, 8:18500|-2.5e-09, 9:18500|-1.7e-09, 10:19000|-1.3e-09, 11:18500|-6.3e-09, 12:18400|-7.1e-10, 13:18500|-1.1e-09, 14:18200|-2.9e-09, 15:18700|-1.7e-09
+funcId = 2, DIM = 20, Precision = 1.000e-08, algId = 'PM-AdapSS-DE'
+% Probability Matching with absolute average of the relative fitness improvement as Credit Assignment (see GECCO10 paper).
+data_f2/bbobexp_f2_DIM20.dat, 1:56000|-5.4e-11, 2:57200|-2.8e-12, 3:55800|-2.4e-09, 4:55000|-1.3e-09, 5:55400|-2.0e-09, 6:56200|-3.3e-10, 7:57400|-8.1e-10, 8:55800|-5.0e-09, 9:55400|-1.1e-09, 10:55000|-9.2e-10, 11:54400|-9.7e-10, 12:54200|-2.2e-10, 13:56800|-3.1e-09, 14:55000|-1.9e-09, 15:53600|-1.8e-09
+funcId = 2, DIM = 40, Precision = 1.000e-08, algId = 'PM-AdapSS-DE'
+% Probability Matching with absolute average of the relative fitness improvement as Credit Assignment (see GECCO10 paper).
+data_f2/bbobexp_f2_DIM40.dat, 1:269600|-3.1e-10, 2:262800|-3.4e-10, 3:393200|-8.4e-10, 4:250000|-1.4e-09, 5:276400|-4.7e-10, 6:248400|-7.4e-10, 7:271600|-1.1e-09, 8:288400|-4.1e-10, 9:276000|-2.2e-10, 10:526000|-5.5e-10, 11:256400|-1.2e-09, 12:212000|-1.0e-09, 13:301600|-1.5e-09, 14:217200|-1.3e-09, 15:309600|-3.5e-10

@@ -1,0 +1,170 @@
+% function evaluation | noise-free fitness - Fopt (1.000000000000e+03) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of equalfunvals.
+698 +9.949590571e-01 +9.949590571e-01 +1.000994959e+03 +1.000994959e+03 -3.4324e+00 +2.8474e+00
+ % restart: Indep. restart #2, because of equalfunvals.
+1372 +4.974790248e+00 +9.949590571e-01 +1.004974790e+03 +1.000994959e+03 -1.4094e+00 +2.6220e+00
+ % function evaluation | noise-free fitness - Fopt (7.003000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolfun,tolhistfun.
+644 +9.949590571e-01 +9.949590571e-01 +7.102495906e+01 +7.102495906e+01 -1.8182e+00 -2.1745e+00
+ % restart: Indep. restart #2, because of tolfun,tolhistfun.
+1390 +4.974790248e+00 +9.949590571e-01 +7.500479025e+01 +7.102495906e+01 +1.0586e+00 -3.5529e+00
+ % restart: Indep. restart #3, because of tolfun,tolhistfun.
+2088 +9.949590571e-01 +9.949590571e-01 +7.102495906e+01 +7.102495906e+01 +1.5258e-01 -2.7778e+00
+ % restart: Indep. restart #4, because of tolfun,tolhistfun.
+2888 +1.989918114e+00 +4.862249752e-01 +7.201991811e+01 +7.051622498e+01 +6.2346e-02 -2.4200e+00
+ % function evaluation | noise-free fitness - Fopt (-4.822000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolfun,tolhistfun.
+662 +4.974790248e+00 +1.643613651e+00 -4.324520975e+01 -4.657638635e+01 -1.0240e+00 -1.2830e+00
+ % restart: Indep. restart #2, because of tolfun,tolhistfun.
+1468 +1.989918114e+00 +1.643613651e+00 -4.623008189e+01 -4.657638635e+01 -2.2380e+00 -1.2738e+00
+ % restart: Indep. restart #3, because of tolfun,tolhistfun.
+2280 +9.949560299e+00 +1.643613651e+00 -3.827043970e+01 -4.657638635e+01 -2.8701e+00 -2.6418e-01
+ % restart: Indep. restart #4, because of tolfun,tolhistfun.
+3008 +9.949590571e-01 +9.949590571e-01 -4.722504094e+01 -4.722504094e+01 -1.4396e+00 -1.5797e+00
+ % restart: Indep. restart #5, because of tolfun,tolhistfun.
+3718 +8.954601241e+00 +9.949590571e-01 -3.926539876e+01 -4.722504094e+01 -2.0308e+00 -3.3755e+00
+ % restart: Indep. restart #6, because of tolfun,tolhistfun.
+4398 +4.974790248e+00 +9.949590571e-01 -4.324520975e+01 -4.722504094e+01 -2.2751e+00 +1.1878e+00
+ % function evaluation | noise-free fitness - Fopt (2.547000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% function evaluation | noise-free fitness - Fopt (-1.008100000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolfun,tolhistfun.
+734 +9.949590571e-01 +9.949590571e-01 -9.981504094e+01 -9.981504094e+01 +1.3635e+00 +3.3735e-01
+ % restart: Indep. restart #2, because of tolfun,tolhistfun.
+1402 +9.949590571e-01 +9.949590571e-01 -9.981504094e+01 -9.981504094e+01 +1.3635e+00 +3.3735e-01
+ % restart: Indep. restart #3, because of tolfun,tolhistfun.
+2178 +9.949590571e-01 +9.949590571e-01 -9.981504094e+01 -9.981504094e+01 +1.8211e+00 +1.0312e+00
+ % restart: Indep. restart #4, because of tolfun,tolhistfun.
+2954 +4.974790248e+00 +9.949590571e-01 -9.583520975e+01 -9.981504094e+01 +3.0210e+00 +1.3985e+00
+ % restart: Indep. restart #5, because of tolfun,tolhistfun.
+3754 +1.989918114e+00 +9.949590571e-01 -9.882008189e+01 -9.981504094e+01 +5.9664e-01 -1.7266e-01
+ % restart: Indep. restart #6, because of tolfun,tolhistfun.
+4482 +9.949590571e-01 +9.949590571e-01 -9.981504094e+01 -9.981504094e+01 +1.4285e-01 -3.0704e-02
+ % restart: Indep. restart #7, because of tolfun,tolhistfun.
+5102 +4.974790248e+00 +9.949590571e-01 -9.583520975e+01 -9.981504094e+01 +3.0210e+00 +1.3985e+00
+ % restart: Indep. restart #8, because of tolfun,tolhistfun.
+5728 +9.949590571e-01 +9.949590571e-01 -9.981504094e+01 -9.981504094e+01 +6.1533e-01 +6.6802e-01
+ % restart: Indep. restart #9, because of tolfun,tolhistfun.
+6456 +3.979831191e+00 +9.949590571e-01 -9.683016881e+01 -9.981504094e+01 +1.8047e+00 +2.0445e-01
+ % restart: Indep. restart #10, because of tolfun,tolhistfun.
+7154 +4.974790248e+00 +9.949590571e-01 -9.583520975e+01 -9.981504094e+01 -7.1673e-01 +2.6967e-01
+ % restart: Indep. restart #11, because of tolfun,tolhistfun.
+7840 +9.949590571e-01 +9.949590571e-01 -9.981504094e+01 -9.981504094e+01 +6.1533e-01 +6.6802e-01
+ % restart: Indep. restart #12, because of tolfun,tolhistfun.
+8568 +4.974790248e+00 +9.949590571e-01 -9.583520975e+01 -9.981504094e+01 +2.0935e+00 +1.7184e+00
+ % restart: Indep. restart #13, because of tolfun,tolhistfun.
+9266 +9.949590571e-01 +9.949590571e-01 -9.981504094e+01 -9.981504094e+01 +1.4285e-01 -3.0704e-02
+ % function evaluation | noise-free fitness - Fopt (1.194000000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolfun,tolhistfun.
+728 +9.949590571e-01 +9.949590571e-01 +1.203949591e+02 +1.203949591e+02 -1.7696e+00 +2.2587e-01
+ % restart: Indep. restart #2, because of tolfun,tolhistfun.
+1432 +3.979831191e+00 +9.949590571e-01 +1.233798312e+02 +1.203949591e+02 -8.9607e-01 +5.7514e-01
+ % restart: Indep. restart #3, because of tolfun,tolhistfun.
+2112 +4.974790248e+00 +9.949590571e-01 +1.243747902e+02 +1.203949591e+02 -1.6641e+00 -1.7353e+00
+ % restart: Indep. restart #4, because of tolfun,tolhistfun.
+2828 +1.989918114e+00 +9.949590571e-01 +1.213899181e+02 +1.203949591e+02 -1.7161e+00 -7.3581e-01
+ % restart: Indep. restart #5, because of tolfun,tolhistfun.
+3502 +1.989918114e+00 +9.949590571e-01 +1.213899181e+02 +1.203949591e+02 -1.1831e+00 +1.4036e+00
+ % restart: Indep. restart #6, because of tolfun,tolhistfun.
+4230 +9.949590571e-01 +9.949590571e-01 +1.203949591e+02 +1.203949591e+02 -1.1637e+00 +4.5905e-01
+ % restart: Indep. restart #7, because of tolfun,tolhistfun.
+4970 +9.949590571e-01 +9.949590571e-01 +1.203949591e+02 +1.203949591e+02 -1.4132e+00 -6.5129e-01
+ % restart: Indep. restart #8, because of tolfun,tolhistfun.
+5662 +7.959662381e+00 +9.949590571e-01 +1.273596624e+02 +1.203949591e+02 -2.2050e+00 +2.0216e+00
+ % restart: Indep. restart #9, because of tolfun,tolhistfun.
+6276 +9.949590571e-01 +9.949590571e-01 +1.203949591e+02 +1.203949591e+02 -1.1637e+00 +4.5905e-01
+ % restart: Indep. restart #10, because of tolfun,tolhistfun.
+6914 +9.949590571e-01 +9.949590571e-01 +1.203949591e+02 +1.203949591e+02 -1.5199e+00 +1.3354e+00
+ % restart: Indep. restart #11, because of tolfun,tolhistfun.
+7570 +9.949590571e-01 +9.949590571e-01 +1.203949591e+02 +1.203949591e+02 -1.4132e+00 -6.5129e-01
+ % restart: Indep. restart #12, because of tolfun,tolhistfun.
+8298 +9.949590571e-01 +9.949590571e-01 +1.203949591e+02 +1.203949591e+02 -1.1637e+00 +4.5905e-01
+ % restart: Indep. restart #13, because of tolfun,tolhistfun.
+9056 +9.949590571e-01 +9.949590571e-01 +1.203949591e+02 +1.203949591e+02 -1.1637e+00 +4.5905e-01
+ % restart: Indep. restart #14, because of tolfun,tolhistfun.
+9784 +3.979831191e+00 +9.949590571e-01 +1.233798312e+02 +1.203949591e+02 -1.3704e+00 -1.5983e+00
+ % function evaluation | noise-free fitness - Fopt (1.352200000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolfun,tolhistfun.
+692 +4.974790248e+00 +4.974790248e+00 +1.401947902e+02 +1.401947902e+02 +2.1774e-01 +1.8550e+00
+ % function evaluation | noise-free fitness - Fopt (5.040000000000e+00) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolfun,tolhistfun.
+812 +1.989918114e+00 +1.989918114e+00 +7.029918114e+00 +7.029918114e+00 -3.6429e+00 +3.0268e+00
+ % function evaluation | noise-free fitness - Fopt (9.170000000000e+00) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolfun,tolhistfun.
+608 +4.974790248e+00 +4.247202698e+00 +1.414479025e+01 +1.341720270e+01 +2.3937e+00 -1.4950e+00
+ % restart: Indep. restart #2, because of tolfun,tolhistfun.
+1264 +1.989918114e+00 +1.989918114e+00 +1.115991811e+01 +1.115991811e+01 +3.4836e+00 -1.9988e+00
+ % function evaluation | noise-free fitness - Fopt (3.474000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolfun,tolhistfun.
+716 +9.949590571e-01 +8.923388049e-01 +3.573495906e+01 +3.563233880e+01 +3.2325e-01 -5.4338e-01
+ % restart: Indep. restart #2, because of tolfun,tolhistfun.
+1498 +3.979831191e+00 +2.581113608e-01 +3.871983119e+01 +3.499811136e+01 +7.7017e-01 +7.5294e-01
+ % restart: Indep. restart #3, because of tolfun,tolhistfun.
+2256 +1.989918114e+00 +2.581113608e-01 +3.672991811e+01 +3.499811136e+01 -1.8011e-01 -7.5844e-03
+ % restart: Indep. restart #4, because of tolfun,tolhistfun.
+3140 +9.949590571e-01 +2.581113608e-01 +3.573495906e+01 +3.499811136e+01 +3.2325e-01 -5.4338e-01
+ % restart: Indep. restart #5, because of tolfun,tolhistfun.
+3802 +9.949590571e-01 +2.581113608e-01 +3.573495906e+01 +3.499811136e+01 +3.4183e-01 +1.0919e-01
+ % restart: Indep. restart #6, because of tolfun,tolhistfun.
+4578 +9.949590571e-01 +2.581113608e-01 +3.573495906e+01 +3.499811136e+01 -6.8687e-01 -1.4734e+00
+ % restart: Indep. restart #7, because of tolfun,tolhistfun.
+5384 +9.949590571e-01 +2.581113608e-01 +3.573495906e+01 +3.499811136e+01 -6.8687e-01 -1.4734e+00
+ % restart: Indep. restart #8, because of tolfun,tolhistfun.
+6172 +3.979831191e+00 +2.581113608e-01 +3.871983119e+01 +3.499811136e+01 +9.1272e-01 -3.7136e-01
+ % restart: Indep. restart #9, because of tolfun,tolhistfun.
+6846 +1.989918114e+00 +2.581113608e-01 +3.672991811e+01 +3.499811136e+01 -1.8011e-01 -7.5844e-03
+ % function evaluation | noise-free fitness - Fopt (8.828000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolfun,tolhistfun.
+860 +4.974790248e+00 +2.346661315e+00 +9.325479025e+01 +9.062666131e+01 +1.6254e+00 +1.9502e+00
+ % restart: Indep. restart #2, because of tolfun,tolhistfun.
+1582 +3.979831191e+00 +1.002251625e+00 +9.225983119e+01 +8.928225162e+01 +1.5035e+00 +4.2567e+00
+ % restart: Indep. restart #3, because of tolfun,tolhistfun.
+2334 +9.949590571e-01 +4.051547782e-01 +8.927495906e+01 +8.868515478e+01 +1.8144e+00 +4.1051e+00
+ % restart: Indep. restart #4, because of tolfun,tolhistfun.
+2948 +1.989918114e+00 +4.051547782e-01 +9.026991811e+01 +8.868515478e+01 +1.3908e+00 +3.1122e+00
+ % restart: Indep. restart #5, because of tolfun,tolhistfun.
+3718 +1.989918114e+00 +4.051547782e-01 +9.026991811e+01 +8.868515478e+01 +1.3908e+00 +3.1122e+00
+ % function evaluation | noise-free fitness - Fopt (1.895800000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolfun,tolhistfun.
+776 +8.954601241e+00 +5.416681726e+00 +1.985346012e+02 +1.949966817e+02 +1.6863e-01 +4.3855e+00
+ % function evaluation | noise-free fitness - Fopt (-1.167600000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolfun,tolhistfun.
+704 +1.989918114e+00 +1.989918114e+00 -1.147700819e+02 -1.147700819e+02 -2.4651e-01 +2.3539e-01
+ % function evaluation | noise-free fitness - Fopt (1.130200000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolfun,tolhistfun.
+638 +9.949590571e-01 +9.949590571e-01 +1.140149591e+02 +1.140149591e+02 -4.9926e-02 -1.9700e-01
+ % restart: Indep. restart #2, because of tolfun,tolhistfun.
+1324 +1.989918114e+00 +9.949590571e-01 +1.150099181e+02 +1.140149591e+02 +1.1143e+00 -1.7204e+00
+ % restart: Indep. restart #3, because of tolfun,tolhistfun.
+2034 +1.989918114e+00 +9.949590571e-01 +1.150099181e+02 +1.140149591e+02 +3.5538e-01 -8.6096e-02
+ % restart: Indep. restart #4, because of tolfun,tolhistfun.
+2840 +9.949590571e-01 +9.949590571e-01 +1.140149591e+02 +1.140149591e+02 +1.1427e+00 -7.7435e-01
+ % restart: Indep. restart #5, because of tolfun,tolhistfun.
+3586 +9.949590571e-01 +9.949590571e-01 +1.140149591e+02 +1.140149591e+02 +1.1427e+00 -7.7435e-01
+ % restart: Indep. restart #6, because of tolfun,tolhistfun.
+4296 +9.949560299e+00 +9.949590571e-01 +1.229695603e+02 +1.140149591e+02 +3.0198e+00 -2.6801e+00
+ % restart: Indep. restart #7, because of tolfun,tolhistfun.
+4988 +1.989918114e+00 +9.949590571e-01 +1.150099181e+02 +1.140149591e+02 +1.8476e+00 -1.5134e+00
+ % restart: Indep. restart #8, because of tolfun,tolhistfun.
+5692 +1.989918114e+00 +9.949590571e-01 +1.150099181e+02 +1.140149591e+02 +1.1143e+00 -1.7204e+00
+ % restart: Indep. restart #9, because of tolfun,tolhistfun.
+6414 +9.949560299e+00 +9.949590571e-01 +1.229695603e+02 +1.140149591e+02 +3.2311e-01 -1.9320e+00
+ % restart: Indep. restart #10, because of tolfun,tolhistfun.
+7100 +1.989918114e+00 +9.949590571e-01 +1.150099181e+02 +1.140149591e+02 +3.5538e-01 -8.6096e-02
+ % restart: Indep. restart #11, because of tolfun,tolhistfun.
+7780 +9.949590571e-01 +9.949590571e-01 +1.140149591e+02 +1.140149591e+02 +1.4541e+00 -1.6245e+00
+ % restart: Indep. restart #12, because of tolfun,tolhistfun.
+8418 +9.949590571e-01 +9.949590571e-01 +1.140149591e+02 +1.140149591e+02 +3.6528e-01 -9.9731e-01
+ % restart: Indep. restart #13, because of tolfun,tolhistfun.
+9230 +9.949590571e-01 +9.949590571e-01 +1.140149591e+02 +1.140149591e+02 -4.9926e-02 -1.9700e-01
+ % function evaluation | noise-free fitness - Fopt (2.978000000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+% restart: Indep. restart #1, because of tolfun,tolhistfun.
+638 +4.974790248e+00 +3.920325181e+00 +3.027747902e+02 +3.017203252e+02 +5.7937e-01 +4.2025e+00
+ % restart: Indep. restart #2, because of tolfun,tolhistfun.
+1270 +9.949590571e-01 +9.949590571e-01 +2.987949591e+02 +2.987949591e+02 -4.8575e-01 +1.5469e+00
+ % restart: Indep. restart #3, because of tolfun,tolhistfun.
+2094 +9.949590571e-01 +9.949590571e-01 +2.987949591e+02 +2.987949591e+02 +3.0083e-01 +2.5277e+00
+ % restart: Indep. restart #4, because of tolfun,tolhistfun.
+2762 +4.974790248e+00 +9.949590571e-01 +3.027747902e+02 +2.987949591e+02 +6.8903e-01 +2.1355e+00
+ % restart: Indep. restart #5, because of tolfun,tolhistfun.
+3424 +1.293443243e+01 +9.949590571e-01 +3.107344324e+02 +2.987949591e+02 +6.0563e-01 +5.5590e-01
+ 
