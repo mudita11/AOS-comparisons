@@ -4,7 +4,9 @@ Adaptive Operator Selection within Differential Evolution
 
 Algorithms are tested on BBOB test suite on dimension 20.
 
-Please cite these results/algorithms as follows:
+
+
+
 
 
 Notations: 
@@ -28,10 +30,17 @@ CMAES: Covariance Matrix Adaptation Evolution Strategy
 JADE: Adaptive Differential Evolution With Optional External Archive
 
 
+
+
+
 Folder: Replicated
+
 Shows comparisons of various algorithms: CMAES, JADE, DE-RecPM-AOS and replicated versions of DE-F-AUC and PM-AdapSS-DE denoted as DE-F-AUC-R and PM-AdapSS-DE-R respectively. Data to generate results (graphs and tables) for CMAES and JADE algorithms is taken from coco website (http://coco.gforge.inria.fr/doku.php?id=algorithms-bbob). 
 
 Three algorithms with AOS method (DE-RecPM-AOS, DE-F-AUC and PM-AdapSS-DE) are tuned. 
+
+
+
 
 
 Folder: Existing
