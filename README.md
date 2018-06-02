@@ -8,9 +8,11 @@ Please cite these results/algorithms as follows:
 
 
 Notations: 
+
 DE-RecPM-AOS or RecPM: Recursive Probability Matching Adaptive Operator Selector within Differential Evolution
+
 DE-F-AUC(-R) or FAUC(-R): Bandit with Area Under the curve within Differential Evolution without replication(best replication from thesis: Adaptive Operator Selection for Optimisation)
-PM-AdapSS-DE(-R) or AdapSS(-R): Probability Matching Adaptive Operator Selector within Differential Evolution without replication(best replication from thesis: Fialho, ¡lvaro. Adaptive operator selection for optimization. Diss. UniversitÈ Paris Sud-Paris XI, 2010.)
+PM-AdapSS-DE(-R) or AdapSS(-R): Probability Matching Adaptive Operator Selector within Differential Evolution without replication(best replication from thesis: Fialho, √Ålvaro. Adaptive operator selection for optimization. Diss. Universit√© Paris Sud-Paris XI, 2010.)
 
 Any above mentioned algorithm can have three version, notations described below (Please note in following "Algo" can be replaced by any algorithm above): 
 Algo1: Parameters of AOS and DE are tuned using IRACE.
