@@ -59,9 +59,6 @@ try: from scipy.optimize import fmin_slsqp  # "pip install scipy" installs scipy
 except: pass
 try: range = xrange  # let range always be an iterator
 except NameError: pass
-
-#def pause():
-#    input("PRESS THE ENTER KEY TO CONTINUE")
     
 def default_observers(update={}):
     """return a map from suite names to default observer names"""
@@ -224,30 +221,6 @@ class ShortInfo(object):
         h, m, s = l[3].split(':')
         return d + ' ' + h + 'h' + m + ':' + s
 
-
-# ===============================================
-# prepare (the most basic example solver)
-# ===============================================
-'''
-def random_search(fun, lbounds, ubounds, budget):
-    """Efficient implementation of uniform random search between `lbounds` and `ubounds`."""    
-    lbounds, ubounds = np.array(lbounds), np.array(ubounds)
-    dim, x_min, f_min = len(lbounds), (lbounds + ubounds) / 2, None
-    max_chunk_size = 1 + 4e4 / dim
-    while budget > 0:
-        chunk = int(min([budget, max_chunk_size]))
-        # about five times faster than "for k in range(budget):..."
-        X = lbounds + (ubounds - lbounds) * np.random.rand(chunk, dim) #generate chunkXdim size matrix
-        F = [fun(x) for x in X] #F is a vector of size X where for each x in X we get F[X] 
-        if fun.number_of_objectives == 1:
-            index = np.argmin(F)
-            if f_min is None or F[index] < f_min:
-                x_min, f_min = X[index], F[index]
-        budget -= chunk
-    return x_min
-'''
-
-
 def EA_AOS(fun, lbounds, ubounds, budget, problem_index):
     
     cost = de.DE(fun, lbounds, ubounds, budget, FF, CR, alpha, p_min, W, C, problem_index)
@@ -271,12 +244,8 @@ def batch_loop(solver, suite, observer, budget,
     """
     addressed_problems = []
     short_info = ShortInfo()
-    sample_ids = list(range(360))
-    #random.shuffle(sample_ids)
-    sample_ids = set(sample_ids[0:15])
+    
     for problem_index, problem in enumerate(suite):
-        if problem_index not in sample_ids:
-            continue
         if (problem_index + current_batch - 1) % number_of_batches:
             continue
         observer.observe(problem)
