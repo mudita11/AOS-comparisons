@@ -12,7 +12,11 @@ DE-F-AUC(-R) or FAUC(-R): Bandit with Area Under the curve within Differential E
 
 PM-AdapSS-DE(-R) or AdapSS(-R): Probability Matching Adaptive Operator Selector within Differential Evolution without replication(best replication from thesis: Fialho, Álvaro. Adaptive operator selection for optimization. Diss. Université Paris Sud-Paris XI, 2010.)
 
-Any above mentioned algorithm can have three version, notations described below (Please note in following "Algo" can be replaced by any algorithm above): 
+CMAES: Covariance Matrix Adaptation Evolution Strategy
+
+JADE: Adaptive Differential Evolution With Optional External Archive
+
+RecPM, FAUC and AdapSS have three versions (Please note in the following "Algo" can be replaced by name of the algorithm): 
 
 Algo1: Parameters of AOS and DE are tuned using IRACE.
 
@@ -20,9 +24,6 @@ Algo2: Parameters of only AOS method are tuned; Parameter values for DE algorith
 
 Algo3: Parameter values for DE algorithm: CR (Crossover rate) = 1.0, F (Mutation rate) = 0.5, NP (Population size) = 200; Parameter values for AOS method: alpha (Adaptation rate) / gamma (Discount factor) = 0.6, p_min (Minimum probability attainable by any operator) = 0.0, W (Window size) = 50, C (Scaling factor) = 0.5
 
-CMAES: Covariance Matrix Adaptation Evolution Strategy
-
-JADE: Adaptive Differential Evolution With Optional External Archive
 
 **Folder description**
 
